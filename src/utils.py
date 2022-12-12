@@ -24,10 +24,10 @@ def json_phoATIS(path=f'{data_dir}/processed/IDSF/phoATIS'):
         lines = [line.strip() for line in open(f"{path}/{mode}/seq.in").readlines()]
         labels = [label.strip() for label in open(f"{path}/{mode}/label").readlines()]
         for line, label in zip(lines, labels):
-            if mode != 'test':
-                train_data.append(dict([('text', line), ('label', label)]))
-            else:
+            if mode != 'train':
                 test_data.append(dict([('text', line), ('label', label)]))
+            else:
+                train_data.append(dict([('text', line), ('label', label)]))
     print(train_data[0])
     print(test_data[0])
     json.dump(train_data, open(train_path, 'w', encoding='utf8'), indent=3, ensure_ascii=False)
