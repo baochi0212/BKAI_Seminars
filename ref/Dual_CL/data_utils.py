@@ -29,8 +29,7 @@ class MyDataset(Dataset):
         for data in raw_data:
             tokens = data['text'].lower().split(' ')
             if data['label'] not in label_dict:
-                label_dict[data['label']] = len(label_dict.keys())
-            label_id = label_dict[data['label']]
+                label_id = -1
 
             dataset.append((label_list + sep_token + tokens, label_id))
         self._dataset = dataset
