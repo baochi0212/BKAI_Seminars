@@ -10,7 +10,7 @@ def text2dict(filename):
     label_dict = {}
     idx = 0
     with open(f"{data_dir}/{filename}", 'r') as f:
-        for i, line in f.readlines():
+        for line in f.readlines():
             line = line.strip()
             if line != "UNK":
                 label_dict[idx] = line
