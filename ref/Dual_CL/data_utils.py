@@ -30,6 +30,8 @@ class MyDataset(Dataset):
             tokens = data['text'].lower().split(' ')
             if data['label'] not in label_dict:
                 label_id = -1
+            else:
+                label_id = label_dict[data['label']]
 
             dataset.append((label_list + sep_token + tokens, label_id))
         self._dataset = dataset
