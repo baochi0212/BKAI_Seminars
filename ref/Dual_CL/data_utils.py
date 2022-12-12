@@ -4,7 +4,7 @@ import torch
 from functools import partial
 from torch.utils.data import Dataset, DataLoader
 
-data_dir = "/home/xps/educate/code/hust/Lab/Contrastive_learning_survey-/ref/Dual-Contrastive-Learning/data"
+data_dir = "./data"
 
 def text2dict(filename):
     label_dict = {}
