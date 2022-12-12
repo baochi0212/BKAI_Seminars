@@ -7,8 +7,8 @@ from torch.utils.data import Dataset, DataLoader
 data_dir = "./data"
 
 def text2dict(filename):
-    label_dict = {}
-    idx = 0
+    label_dict = {'0': 'unknown'}
+    idx = 1
     with open(f"{data_dir}/{filename}", 'r') as f:
         for line in f.readlines():
             line = line.strip()
@@ -29,7 +29,7 @@ class MyDataset(Dataset):
         for data in raw_data:
             tokens = data['text'].lower().split(' ')
             if data['label'] not in label_dict:
-                label_id = -1
+                label_id = 0
             else:
                 label_id = label_dict[data['label']]
 
@@ -97,7 +97,7 @@ def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, m
 
 if __name__ == '__main__':
     label_dict = text2dict('phoATIS_label.txt')
-    data = json.load(open(data_dir + '/phoATIS_Train.json', 'r'))
+    data = json.load(open(data_dir + '/phoATIS_Test.json', 'r'))
     for i in range(len(data)):
         if data[i]['label'] not in label_dict:
             print(data[i]['label'])
