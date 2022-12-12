@@ -14,6 +14,7 @@ def text2dict(filename):
             line = line.strip()
             if line != "UNK":
                 label_dict[line] = idx 
+                idx += 1 
 
     return label_dict
 
@@ -27,7 +28,10 @@ class MyDataset(Dataset):
         dataset = list()
         for data in raw_data:
             tokens = data['text'].lower().split(' ')
+            if data['label'] not in label_dict:
+                label_dict[data['label']] = len(label_dict.keys())
             label_id = label_dict[data['label']]
+
             dataset.append((label_list + sep_token + tokens, label_id))
         self._dataset = dataset
 
