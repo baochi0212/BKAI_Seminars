@@ -13,7 +13,7 @@ def text2dict(filename):
         for line in f.readlines():
             line = line.strip()
             if line != "UNK":
-                label_dict[idx] = line
+                label_dict[line] = idx 
 
     return label_dict
 
