@@ -122,6 +122,8 @@ def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, m
         test_data = json.load(open(os.path.join(data_dir, 'phoATIS_Test.json'), 'r', encoding='utf-8'))
         label_dict = text2dict('phoATIS_label.txt')
     elif dataset == 'uit_nlp':
+        train_data = json.load(open(os.path.join(data_dir, 'phoATIS_Train.json'), 'r', encoding='utf-8'))
+        test_data = json.load(open(os.path.join(data_dir, 'phoATIS_Test.json'), 'r', encoding='utf-8'))
         
         train_data = json.load(open(os.path.join(data_dir, 'phoATIS_Train.json'), 'r', encoding='utf-8'))
         test_data = json.load(open(os.path.join(data_dir, 'phoATIS_Test.json'), 'r', encoding='utf-8'))
