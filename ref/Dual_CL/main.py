@@ -16,7 +16,7 @@ class Instructor:
         if args.model_name == 'bert':
             self.tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
             base_model = AutoModel.from_pretrained('bert-base-uncased')
-        if args.model_name == 'phobert':
+        elif args.model_name == 'phobert':
             self.tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
             base_model = AutoModel.from_pretrained('vinai/phobert-base')
         elif args.model_name == 'roberta':

@@ -7,6 +7,7 @@ from transformers import AutoTokenizer
 
 data_dir = "./data"
 
+#static(args), cls(cls, args) -> both called in class i.o object, while static more strict
 def text2dict(filename):
     label_dict = {'0': '[UNK]'}
     idx = 1
@@ -39,7 +40,6 @@ class MyDataset(Dataset):
 
             dataset.append((label_list + sep_token + tokens, label_id))
         self._dataset = dataset
-
     def __getitem__(self, index):
         return self._dataset[index]
 
