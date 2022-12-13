@@ -17,7 +17,7 @@ def get_config():
     parser.add_argument('--model_name', type=str, default='bert', choices=['bert', 'roberta', 'phobert', 'bert-scratch'])
     parser.add_argument('--method', type=str, default='dualcl', choices=['ce', 'scl', 'dualcl'])
     ''' Optimization '''
-    parser.add_argument('--train_batch_size', type=int, default=32)
+    parser.add_argument('--train_batch_size', type=int, default=16)
     parser.add_argument('--test_batch_size', type=int, default=64)
     parser.add_argument('--num_epoch', type=int, default=100)
     parser.add_argument('--lr', type=float, default=1e-5)
