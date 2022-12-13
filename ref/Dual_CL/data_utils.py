@@ -64,7 +64,7 @@ class MyDataset(Dataset):
         dataset = list()
         for data in raw_data:
             tokens = data['text'].lower().split(' ')
-            label = '[' + data['label'] + ']' if model_name == 'phobert' else data['label']
+            label = '[' + str(data['label']) + ']' if model_name == 'phobert' else str(data['label'])
             if  label not in label_dict:
                 label_id = 0
             else:
