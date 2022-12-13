@@ -3,6 +3,7 @@ import json
 import torch
 from functools import partial
 from torch.utils.data import Dataset, DataLoader
+from transformers import AutoTokenizer
 
 data_dir = "./data"
 
@@ -24,7 +25,7 @@ class MyDataset(Dataset):
 
     def __init__(self, raw_data, label_dict, tokenizer, model_name, method):
         label_list = list(label_dict.keys()) if method not in ['ce', 'scl'] else []
-        sep_token = ['[SEP]'] if model_name == 'bert' else ['</s>']
+        sep_token = ['[SEP]'] if model_name in ['bert', 'phobert'] else ['</s>']
         dataset = list()
         for data in raw_data:
             tokens = data['text'].lower().split(' ')
@@ -97,8 +98,10 @@ def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, m
 
 if __name__ == '__main__':
     label_dict = text2dict('phoATIS_label.txt')
-    data = json.load(open(data_dir + '/phoATIS_Test.json', 'r'))
-    for i in range(len(data)):
-        if data[i]['label'] not in label_dict:
-            print(data[i]['label'])
+    tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
+    special_tokens_dict = {'additional_special_tokens': ['[abbrevation]','[C2]','[C3]','[C4]']}
+    print(tokenizer("[abbrevation]"))
+    # for key in label_dict.keys():
+    #     print(key, tokenizer(key))
+    
 

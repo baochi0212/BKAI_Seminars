@@ -1,4 +1,4 @@
-# Dual-Contrastive-Learning
+# Dual-Contrastive-Learning -> Can it open up to multi-class settings ?
  
 ![GitHub](https://img.shields.io/github/license/hiyouga/dual-contrastive-learning)
 

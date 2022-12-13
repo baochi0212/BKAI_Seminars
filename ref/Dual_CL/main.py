@@ -4,7 +4,7 @@ from model import Transformer
 from config import get_config
 from loss_func import CELoss, SupConLoss, DualLoss
 from data_utils import load_data
-from transformers import logging, AutoTokenizer, AutoModel
+from transformers import logging, AutoTokenizer, AutoModel, BertModel, BertConfig
 
 
 class Instructor:
@@ -22,6 +22,10 @@ class Instructor:
         elif args.model_name == 'roberta':
             self.tokenizer = AutoTokenizer.from_pretrained('roberta-base', add_prefix_space=True)
             base_model = AutoModel.from_pretrained('roberta-base')
+        elif args.model_name == 'bert-scratch':
+            self.tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
+            config = BertConfig.from_pretrained('vinai/phobert-base')
+            base_model = BertModel(config)
         else:
             raise ValueError('unknown model')
         self.model = Transformer(base_model, args.num_classes, args.method)
@@ -98,7 +102,7 @@ class Instructor:
 
 
 if __name__ == '__main__':
-    logging.set_verbosity_error()
+    # logging.set_verbosity_error()
     args, logger = get_config()
     ins = Instructor(args, logger)
     ins.run()
