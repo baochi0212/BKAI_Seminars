@@ -35,7 +35,7 @@ class MyDataset(Dataset):
             if '[' + data['label'] + ']' not in label_dict:
                 label_id = 0
             else:
-                label_id = label_dict[data['label']]
+                label_id = label_dict['[' + data['label'] + ']']
 
             dataset.append((label_list + sep_token + tokens, label_id))
         self._dataset = dataset
