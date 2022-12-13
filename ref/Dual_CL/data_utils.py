@@ -33,10 +33,11 @@ class MyDataset(Dataset):
         dataset = list()
         for data in raw_data:
             tokens = data['text'].lower().split(' ')
-            if '[' + data['label'] + ']' not in label_dict:
+            label = '[' + data['label'] + ']' if model_name == 'phobert' else data['label']
+            if  label not in label_dict:
                 label_id = 0
             else:
-                label_id = label_dict['[' + data['label'] + ']']
+                label_id = label_dict[label]
 
             dataset.append((label_list + sep_token + tokens, label_id))
         self._dataset = dataset
