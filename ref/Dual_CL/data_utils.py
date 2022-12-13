@@ -8,12 +8,15 @@ from transformers import AutoTokenizer
 data_dir = "./data"
 
 def text2dict(filename):
-    label_dict = {'0': 'unknown'}
+    label_dict = {'0': '[UNK]'}
     idx = 1
     with open(f"{data_dir}/{filename}", 'r') as f:
         for line in f.readlines():
             line = line.strip()
+            #convert to special tokens
+
             if line != "UNK":
+                line = '[' + line + ']'
                 label_dict[line] = idx 
                 idx += 1 
 
@@ -99,9 +102,9 @@ def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, m
 if __name__ == '__main__':
     label_dict = text2dict('phoATIS_label.txt')
     tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
-    special_tokens_dict = {'additional_special_tokens': ['[abbrevation]','[C2]','[C3]','[C4]']}
-    print(tokenizer("abbrevation"))
-    # for key in label_dict.keys():
-    #     print(key, tokenizer(key))
+    special_tokens_dict = {'additional_special_tokens': list(label_dict.keys())}
+    tokenizer.add_special_tokens(special_tokens_dict)
+    for key in label_dict.keys():
+        print(key, tokenizer(key))
     
 
