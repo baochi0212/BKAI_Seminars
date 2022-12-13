@@ -5,8 +5,8 @@ from functools import partial
 from torch.utils.data import Dataset, DataLoader
 from transformers import AutoTokenizer
 #if import dataset
-from datasets import load_dataset
-filename = "uit-nlp/vietnamese_students_feedback"
+# from datasets import load_dataset
+# filename = "uit-nlp/vietnamese_students_feedback"
 # dataset = load_dataset(filename)
 
 data_dir = "./data"
@@ -14,7 +14,7 @@ def dataset2json(filename):
     '''
     for dataset library 
     '''
-    dataset = load_dataset(filename)
+    # dataset = load_dataset(filename)
     filename = filename.split('/')[0]
     train_path = f"./data/{filename}_Train.json"
     test_path = f"./data/{filename}_Test.json"
