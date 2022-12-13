@@ -100,7 +100,7 @@ if __name__ == '__main__':
     label_dict = text2dict('phoATIS_label.txt')
     tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
     special_tokens_dict = {'additional_special_tokens': ['[abbrevation]','[C2]','[C3]','[C4]']}
-    print(tokenizer("[abbrevation]"))
+    print(tokenizer("abbrevation"))
     # for key in label_dict.keys():
     #     print(key, tokenizer(key))
     

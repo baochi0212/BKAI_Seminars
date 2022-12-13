@@ -24,15 +24,18 @@ class SupConLoss(nn.Module):
     def nt_xent_loss(self, anchor, target, labels):
         with torch.no_grad():
             labels = labels.unsqueeze(-1)
+            print("Label", labels.shape)
             mask = torch.eq(labels, labels.transpose(0, 1))
             # delete diag elem
             mask = mask ^ torch.diag_embed(torch.diag(mask))
+            print(mask.shape)
         # compute logits
         anchor_dot_target = torch.einsum('bd,cd->bc', anchor, target) / self.temp
         # delete diag elem
         anchor_dot_target = anchor_dot_target - torch.diag_embed(torch.diag(anchor_dot_target))
         # for numerical stability
         logits_max, _ = torch.max(anchor_dot_target, dim=1, keepdim=True)
+        print("MAX", logits_max.shape)
         logits = anchor_dot_target - logits_max.detach()
         # compute log prob
         exp_logits = torch.exp(logits)
@@ -67,3 +70,4 @@ class DualLoss(SupConLoss):
         cl_loss_1 = 0.5 * self.alpha * self.nt_xent_loss(normed_pos_label_feats, normed_cls_feats, targets)
         cl_loss_2 = 0.5 * self.alpha * self.nt_xent_loss(normed_cls_feats, normed_pos_label_feats, targets)
         return ce_loss + cl_loss_1 + cl_loss_2
+
