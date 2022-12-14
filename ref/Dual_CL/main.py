@@ -20,12 +20,12 @@ class Instructor:
         elif args.model_name == 'phobert':
             label_dict = text2dict(f"{args.dataset}_label.txt")
             self.tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
-            
+
             new_vocab_len = len(self.tokenizer.get_vocab()) + len(list(label_dict.keys()))
             special_tokens = {"additional_special_tokens": list(label_dict.keys())}
             self.tokenizer.add_special_tokens(special_tokens)
             base_model = AutoModel.from_pretrained('vinai/phobert-base')
-            base_model.embeddings.word_embeddings = nn.Embedding(10000, 768, padding_idx=1)
+            base_model.embeddings.word_embeddings = nn.Embedding(new_vocab_len, 768, padding_idx=1)
             
         elif args.model_name == 'roberta':
             self.tokenizer = AutoTokenizer.from_pretrained('roberta-base', add_prefix_space=True)
@@ -44,7 +44,7 @@ class Instructor:
                 
         else:
             raise ValueError('unknown model')
-        print(base_model)
+
         self.model = Transformer(base_model, args.num_classes, args.method)
         self.model.to(args.device)
         if args.device.type == 'cuda':
