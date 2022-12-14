@@ -4,8 +4,10 @@ import torch
 from functools import partial
 from torch.utils.data import Dataset, DataLoader
 from transformers import AutoTokenizer
+import fuckit
 #if import dataset
-from datasets import load_dataset
+with fuckit:
+    from datasets import load_dataset
 filename = "uit-nlp/vietnamese_students_feedback"
 # dataset = load_dataset(filename)
 
@@ -127,8 +129,7 @@ def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, m
         train_data = json.load(open(os.path.join(data_dir, 'uit-nlp_Train.json'), 'r', encoding='utf-8'))
         test_data = json.load(open(os.path.join(data_dir, 'uit-nlp_Test.json'), 'r', encoding='utf-8'))
         label_dict = text2dict('uit-nlp_label.txt')
-        # special_tokens = {"additional_special_tokens": list(label_dict.keys())}
-        # tokenizer.add_special_tokens(special_tokens)
+     
 
     else:
         raise ValueError('unknown dataset')
