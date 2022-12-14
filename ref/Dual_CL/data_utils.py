@@ -12,10 +12,12 @@ filename = "uit-nlp/vietnamese_students_feedback"
 # dataset = load_dataset(filename)
 
 data_dir = "./data"
-def dataset2json(filename):
+def dataset2json(filename, proportion=0.1):
     '''
     for dataset library 
+    experiment with varied proportion of data
     '''
+
     dataset = load_dataset(filename)
     filename = filename.split('/')[0]
     train_path = f"./data/{filename}_Train.json"
@@ -23,7 +25,8 @@ def dataset2json(filename):
     label_path = f"./data/{filename}_label.txt"
     train_dict, test_dict, labels = [], [], []
     for mode in ['train', 'validation', 'test']:
-        for i in range(len(dataset[mode])):
+        length = len(dataset[mode])//(1/proportion) + 1 if mode == 'train' else len(dataset[mode])
+        for i in range(length):
             sentence, label = dataset[mode][i]['sentence'], dataset[mode][i]['sentiment']
             if label not in labels:
                 labels.append(label)
