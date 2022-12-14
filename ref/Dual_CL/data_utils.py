@@ -168,4 +168,4 @@ if __name__ == '__main__':
     # # #         print(word)
     # # #         break
 
-    # dataset2json(filename)
+    dataset2json(filename)
