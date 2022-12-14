@@ -126,7 +126,7 @@ def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, m
         test_data = json.load(open(os.path.join(data_dir, 'uit-nlp_Test.json'), 'r', encoding='utf-8'))
         label_dict = dict([('[' + str(key) + ']', key) for key in [0, 1, 2]])
         special_tokens = {"additional_special_tokens": list(label_dict.keys())}
-        tokenizer.add_special_tokens(special_tokens)
+        # tokenizer.add_special_tokens(special_tokens)
 
     else:
         raise ValueError('unknown dataset')
