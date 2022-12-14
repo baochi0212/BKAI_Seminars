@@ -144,6 +144,7 @@ def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, m
         train_data = json.load(open(os.path.join(data_dir, 'uit-nlp_Train.json'), 'r', encoding='utf-8'))
         test_data = json.load(open(os.path.join(data_dir, 'uit-nlp_Test.json'), 'r', encoding='utf-8'))
         label_dict = text2dict('uit-nlp_label.txt')
+        train_data = train_data[:int(len(train_data)//10)+1]
      
 
     else:
