@@ -3,7 +3,7 @@ from tqdm import tqdm
 from model import Transformer
 from config import get_config
 from loss_func import CELoss, SupConLoss, DualLoss
-from data_utils import load_data
+from data_utils import load_data, text2dict
 from transformers import logging, AutoTokenizer, AutoModel, BertModel, BertConfig
 
 
@@ -25,7 +25,18 @@ class Instructor:
         elif args.model_name == 'bert-scratch':
             self.tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
             config = BertConfig.from_pretrained('vinai/phobert-base')
+            # add special tokens:
+            if args.model_name == 'phobert':
+                label_dict = text2dict(f"{args.dataset}_label.txt")
+                new_vocab_len = len(self.tokenizer.get_vocab()) + len(list(label_dict.keys()))
+                config.vocab_size = new_vocab_len
+                special_tokens = {"additional_special_tokens": list(label_dict.keys())}
+                self.tokenizer.add_special_tokens(special_tokens)
+
+            
+
             base_model = BertModel(config)
+    
         else:
             raise ValueError('unknown model')
         self.model = Transformer(base_model, args.num_classes, args.method)
