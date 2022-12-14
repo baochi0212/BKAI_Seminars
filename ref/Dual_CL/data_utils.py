@@ -96,6 +96,7 @@ def my_collate(batch, tokenizer, method, num_classes):
         positions = torch.zeros_like(text_ids['input_ids'])
         positions[:, num_classes:] = torch.arange(0, text_ids['input_ids'].size(1)-num_classes)
         text_ids['position_ids'] = positions
+    print(label_ids)
     return text_ids, torch.tensor(label_ids)
 
 
