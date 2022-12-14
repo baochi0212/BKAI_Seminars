@@ -76,7 +76,7 @@ class Instructor:
                 outputs = self.model(inputs)
                 loss = criterion(outputs, targets)
                 test_loss += loss.item() * targets.size(0)
-                print(targets)
+                # print(targets) #for verify sanity
                 n_correct += (torch.argmax(outputs['predicts'], -1) == targets).sum().item()
                 n_test += targets.size(0)
         return test_loss / n_test, n_correct / n_test
