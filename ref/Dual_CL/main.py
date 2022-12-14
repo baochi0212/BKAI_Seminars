@@ -33,6 +33,7 @@ class Instructor:
                 special_tokens = {"additional_special_tokens": list(label_dict.keys())}
                 self.tokenizer.add_special_tokens(special_tokens)
                 base_model = BertModel(config)
+        print(base_model)
             
 
             
