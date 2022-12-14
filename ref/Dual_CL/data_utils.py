@@ -25,7 +25,7 @@ def dataset2json(filename, proportion=0.1):
     label_path = f"./data/{filename}_label.txt"
     train_dict, test_dict, labels = [], [], []
     for mode in ['train', 'validation', 'test']:
-        length = len(dataset[mode])//(1/proportion) + 1 if mode == 'train' else len(dataset[mode])
+        length = int(len(dataset[mode])//(1/proportion) + 1) if mode == 'train' else len(dataset[mode])
         for i in range(length):
             sentence, label = dataset[mode][i]['sentence'], dataset[mode][i]['sentiment']
             if label not in labels:
