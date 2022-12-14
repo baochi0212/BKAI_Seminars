@@ -26,16 +26,16 @@ class Instructor:
             self.tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
             config = BertConfig.from_pretrained('vinai/phobert-base')
             # add special tokens:
-            if args.model_name == 'phobert':
+            if args.dataset in ['uit-nlp', 'phoATIS']:
                 label_dict = text2dict(f"{args.dataset}_label.txt")
                 new_vocab_len = len(self.tokenizer.get_vocab()) + len(list(label_dict.keys()))
                 config.vocab_size = new_vocab_len
                 special_tokens = {"additional_special_tokens": list(label_dict.keys())}
                 self.tokenizer.add_special_tokens(special_tokens)
-
+                base_model = BertModel(config)
             
 
-            base_model = BertModel(config)
+            
     
         else:
             raise ValueError('unknown model')
@@ -76,7 +76,7 @@ class Instructor:
                 outputs = self.model(inputs)
                 loss = criterion(outputs, targets)
                 test_loss += loss.item() * targets.size(0)
-                print(targets) #for verify sanity
+                # print(targets) #for verify sanity
                 n_correct += (torch.argmax(outputs['predicts'], -1) == targets).sum().item()
                 n_test += targets.size(0)
         return test_loss / n_test, n_correct / n_test
