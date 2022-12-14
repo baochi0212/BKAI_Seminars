@@ -18,7 +18,7 @@ def split_data(json_dict):
     split the json_dict
     """
     pass
-def dataset2json(filename, proportion=0.2):
+def dataset2json(filename, proportion=0.1):
     '''
     for dataset library 
     experiment with varied proportion of data
