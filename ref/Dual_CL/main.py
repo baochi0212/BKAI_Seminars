@@ -33,9 +33,11 @@ class Instructor:
                 special_tokens = {"additional_special_tokens": list(label_dict.keys())}
                 self.tokenizer.add_special_tokens(special_tokens)
                 base_model = BertModel(config)
+                print(config)
+                print(base_model)
         else:
             raise ValueError('unknown model')
-        print(base_model)
+        # print(base_model)
         self.model = Transformer(base_model, args.num_classes, args.method)
         self.model.to(args.device)
         if args.device.type == 'cuda':
