@@ -6,6 +6,7 @@ import random
 import logging
 import argparse
 from datetime import datetime
+from transformers import BertConfig
 
 
 def get_config():
@@ -39,3 +40,7 @@ def get_config():
     logger.addHandler(logging.StreamHandler(sys.stdout))
     logger.addHandler(logging.FileHandler(os.path.join('logs', args.log_name)))
     return args, logger
+if __name__ == '__main__':
+    config = BertConfig.from_pretrained("vinai/phobert-base")
+    config.vocab_size = 64004
+    print("config", config)

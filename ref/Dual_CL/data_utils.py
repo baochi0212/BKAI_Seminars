@@ -126,7 +126,7 @@ def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, m
         test_data = json.load(open(os.path.join(data_dir, 'uit-nlp_Test.json'), 'r', encoding='utf-8'))
         label_dict = dict([('[' + str(key) + ']', key) for key in [0, 1, 2]])
         special_tokens = {"additional_special_tokens": list(label_dict.keys())}
-        # tokenizer.add_special_tokens(special_tokens)
+        tokenizer.add_special_tokens(special_tokens)
 
     else:
         raise ValueError('unknown dataset')
@@ -138,12 +138,16 @@ def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, m
     return train_dataloader, test_dataloader
 
 if __name__ == '__main__':
-    # label_dict = text2dict('phoATIS_label.txt')
-    # tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
-    # special_tokens_dict = {'additional_special_tokens': list(label_dict.keys())}
-    # tokenizer.add_special_tokens(special_tokens_dict)
-    # for key in label_dict.keys():
-    #     print(key, tokenizer(key))
-    print(dataset2json(filename))
+    tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
+    train_data = json.load(open(os.path.join(data_dir, 'uit-nlp_Train.json'), 'r', encoding='utf-8'))
+    test_data = json.load(open(os.path.join(data_dir, 'uit-nlp_Test.json'), 'r', encoding='utf-8'))
+    label_dict = dict([('[' + str(key) + ']', key) for key in [0, 1, 2]])
+    special_tokens = {"additional_special_tokens": list(label_dict.keys())}
+    tokenizer.add_special_tokens(special_tokens)
+    print(len(tokenizer.get_vocab()))
+    # # for word in tokenizer.get_vocab():
+    # #     if "unused" in word:
+    # #         print(word)
+    # #         break
     
 
