@@ -44,8 +44,12 @@ def dataset2json(filename):
 
 #static(args), cls(cls, args) -> both called in class i.o object, while static more strict
 def text2dict(filename):
-    label_dict = {'0': '[UNK]'}
-    idx = 1
+    if 'phoATIS' in filename:
+        label_dict = {'[UNK]': 0}
+        idx = 1
+    else:
+        label_dict = {}
+        idx = 0 
     with open(f"{data_dir}/{filename}", 'r') as f:
         for line in f.readlines():
             line = line.strip()
