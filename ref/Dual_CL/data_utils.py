@@ -5,6 +5,7 @@ from functools import partial
 from torch.utils.data import Dataset, DataLoader
 from transformers import AutoTokenizer
 import fuckit
+from sklearn.model_selection import train_test_split
 #if import dataset
 with fuckit:
     from datasets import load_dataset
@@ -111,7 +112,9 @@ def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, m
         train_data = json.load(open(os.path.join(data_dir, 'SST2_Train.json'), 'r', encoding='utf-8'))
         test_data = json.load(open(os.path.join(data_dir, 'SST2_Test.json'), 'r', encoding='utf-8'))
         # train_data = train_data[:int(len(train_data)//10)+1]
+        
         label_dict = {'positive': 0, 'negative': 1}
+        _, train_data = train_test_split(train_data, test_size=0.1, stratification=label_dict.items())
     elif dataset == 'trec':
         train_data = json.load(open(os.path.join(data_dir, 'TREC_Train.json'), 'r', encoding='utf-8'))
         test_data = json.load(open(os.path.join(data_dir, 'TREC_Test.json'), 'r', encoding='utf-8'))
