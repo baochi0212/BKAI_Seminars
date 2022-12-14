@@ -19,8 +19,9 @@ class Instructor:
             base_model = AutoModel.from_pretrained('bert-base-uncased')
         elif args.model_name == 'phobert':
             label_dict = text2dict(f"{args.dataset}_label.txt")
-            new_vocab_len = len(self.tokenizer.get_vocab()) + len(list(label_dict.keys()))
             self.tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
+            
+            new_vocab_len = len(self.tokenizer.get_vocab()) + len(list(label_dict.keys()))
             special_tokens = {"additional_special_tokens": list(label_dict.keys())}
             self.tokenizer.add_special_tokens(special_tokens)
             base_model = AutoModel.from_pretrained('vinai/phobert-base')
