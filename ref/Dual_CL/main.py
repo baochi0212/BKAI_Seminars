@@ -5,7 +5,7 @@ from config import get_config
 import torch.nn as nn
 from loss_func import CELoss, SupConLoss, DualLoss
 from data_utils import load_data, text2dict
-from transformers import logging, AutoTokenizer, AutoModel, BertModel, BertConfig
+from transformers import logging, AutoTokenizer, AutoModel, BertModel, BertConfig, get_linear_schedule_with_warmup
 from sklearn.metrics import classification_report
 
 
@@ -57,7 +57,7 @@ class Instructor:
         for arg in vars(self.args):
             self.logger.info(f">>> {arg}: {getattr(self.args, arg)}")
 
-    def _train(self, dataloader, criterion, optimizer):
+    def _train(self, dataloader, criterion, optimizer, scheduler):
         train_loss, n_correct, n_train = 0, 0, 0
         self.model.train()
         for inputs, targets in tqdm(dataloader, disable=self.args.backend, ascii=' >='):
@@ -68,6 +68,7 @@ class Instructor:
             optimizer.zero_grad()
             loss.backward()
             optimizer.step()
+            scheduler.step()
             train_loss += loss.item() * targets.size(0)
             n_correct += (torch.argmax(outputs['predicts'], -1) == targets).sum().item()
             n_train += targets.size(0)
@@ -111,9 +112,10 @@ class Instructor:
         else:
             raise ValueError('unknown method')
         optimizer = torch.optim.AdamW(_params, lr=self.args.lr, weight_decay=self.args.decay)
+        scheduler = get_linear_schedule_with_warmup(len(train_dataloader)*args.num_epochs)
         best_loss, best_acc = 0, 0
         for epoch in range(self.args.num_epoch):
-            train_loss, train_acc = self._train(train_dataloader, criterion, optimizer)
+            train_loss, train_acc = self._train(train_dataloader, criterion, optimizer, scheduler)
             test_loss, test_acc = self._test(test_dataloader, criterion)
             if test_acc > best_acc or (test_acc == best_acc and test_loss < best_loss):
                 best_acc, best_loss = test_acc, test_loss
