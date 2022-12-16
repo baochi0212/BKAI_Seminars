@@ -6,6 +6,7 @@ import torch.nn as nn
 from loss_func import CELoss, SupConLoss, DualLoss
 from data_utils import load_data, text2dict
 from transformers import logging, AutoTokenizer, AutoModel, BertModel, BertConfig
+from sklearn.metrics import classification_report
 
 
 class Instructor:
@@ -74,6 +75,7 @@ class Instructor:
 
     def _test(self, dataloader, criterion):
         test_loss, n_correct, n_test = 0, 0, 0
+        y_true, y_pred = [], []
         self.model.eval()
         with torch.no_grad():
             for inputs, targets in tqdm(dataloader, disable=self.args.backend, ascii=' >='):
@@ -84,7 +86,10 @@ class Instructor:
                 test_loss += loss.item() * targets.size(0)
                 # print(targets) #for verify sanity
                 n_correct += (torch.argmax(outputs['predicts'], -1) == targets).sum().item()
+                y_pred += torch.argmax(outputs['predicts'], -1).numpy().reshape(-1).tolist()
+                y_true += targets.numpy().reshape(-1).tolist()
                 n_test += targets.size(0)
+        print(classification_report(y_true, y_pred))
         return test_loss / n_test, n_correct / n_test
 
     def run(self):
