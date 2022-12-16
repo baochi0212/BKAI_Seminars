@@ -18,7 +18,6 @@ def split_data(json_dict):
     split the json_dict
     """
     pass
-def csv2json
 def dataset2json(filename, proportion=0.1, max_sample=500):
     '''
     for dataset library 
@@ -184,4 +183,4 @@ if __name__ == '__main__':
     # # #         print(word)
     # # #         break
 
-    dataset2json(filename, proportion=1, max_sample=1000)
+    dataset2json(filename, proportion=1, max_sample=None)
