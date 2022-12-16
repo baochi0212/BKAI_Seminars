@@ -113,7 +113,7 @@ class Instructor:
             raise ValueError('unknown method')
         optimizer = torch.optim.AdamW(_params, lr=self.args.lr, weight_decay=self.args.decay)
         total_steps = len(train_dataloader)*args.num_epoch
-        scheduler = get_linear_schedule_with_warmup(num_training_steps=total_steps, num_warmup_steps=total_steps//20)
+        scheduler = get_linear_schedule_with_warmup(optimizer=optimizer, num_training_steps=total_steps, num_warmup_steps=total_steps//20)
         best_loss, best_acc = 0, 0
         for epoch in range(self.args.num_epoch):
             train_loss, train_acc = self._train(train_dataloader, criterion, optimizer, scheduler)
