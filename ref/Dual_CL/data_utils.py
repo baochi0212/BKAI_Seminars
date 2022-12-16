@@ -18,7 +18,7 @@ def split_data(json_dict):
     split the json_dict
     """
     pass
-def dataset2json(filename, proportion=0.1):
+def dataset2json(filename, proportion=0.1, max_sample=100):
     '''
     for dataset library 
     experiment with varied proportion of data
@@ -30,17 +30,29 @@ def dataset2json(filename, proportion=0.1):
     test_path = f"./data/{filename}_Test.json"
     label_path = f"./data/{filename}_label.txt"
     train_dict, test_dict, labels = [], [], []
+    train_stat, test_stat = {}, {}
+    if max_sample:
+        proportion = 1
     for mode in ['train', 'validation', 'test']:
-        length = int(len(dataset[mode])//(1/proportion) + 1) if mode == 'train' else len(dataset[mode])
+        length = int(len(dataset[mode])//(1/proportion)) if mode == 'train' else len(dataset[mode])
         for i in range(length):
             sentence, label = dataset[mode][i]['sentence'], dataset[mode][i]['sentiment']
             if label not in labels:
                 labels.append(label)
+                locals()[f"train_stat"][label] = 0
+                locals()[f"test_stat"][label] = 0
             if mode == 'train':
-                train_dict.append({'text': sentence, 'label': label})
+                if train_stat[label] < max_sample:
+                    train_dict.append({'text': sentence, 'label': label})
+                    train_stat[label] += 1
             else: 
                 test_dict.append({'text': sentence, 'label': label})
-            
+                test_stat[label] += 1
+
+    print("train:", len(train_dict), train_stat)
+    print("validation:", len(test_dict), test_stat)
+
+
         
     json.dump(train_dict, open(train_path, 'w'), indent=3, ensure_ascii=False)
     json.dump(test_dict, open(test_path, 'w'), indent=3, ensure_ascii=False)
@@ -169,4 +181,4 @@ if __name__ == '__main__':
     # # #         print(word)
     # # #         break
 
-    dataset2json(filename)
+    dataset2json(filename, proportion=1)

@@ -744,30 +744,6 @@
       "label": 2
    },
    {
-      "text": "nếu có thì chỉ hướng dẫn bằng lý thuyết mà không làm bài tập mẫu cho sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "cô chưa có nhiều kênh bài tập cho sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "bạn nào khá thì có thể áp dụng công thức vào bài tập cả lớp chưa đến 30% còn thực sự hiểu môn học thì rất ít người hiểu .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy hơi nhanh .",
-      "label": 0
-   },
-   {
-      "text": "ít hướng dẫn sinh viên trong giờ thực hành .",
-      "label": 0
-   },
-   {
-      "text": "không thực hành được buổi nào .",
-      "label": 0
-   },
-   {
       "text": "thầy dạy phần lý thuyết hay , nắm bắt được khả năng của sinh viên .",
       "label": 2
    },
@@ -804,36 +780,12 @@
       "label": 2
    },
    {
-      "text": "mong thầy cố gắng trong các học kỳ sau .",
-      "label": 0
-   },
-   {
-      "text": "cần đưa ra nhiều ví dụ minh họa hơn .",
-      "label": 0
-   },
-   {
       "text": "giảng viên hoà đồng , vui vẻ , chỉ giảng tận tình sinh viên ham học hỏi .",
       "label": 2
    },
    {
-      "text": "giảng viên không dạy một tiết thực hành nào .",
-      "label": 0
-   },
-   {
       "text": "không !",
       "label": 1
-   },
-   {
-      "text": "nên có sự thống nhất giữa các giảng viên bộ môn trong đề cương giảng dạy .",
-      "label": 0
-   },
-   {
-      "text": "có những phần kiến thức chỉ một nửa lớp được học nhưng giảng viên nghĩ là cả lớp đã học rồi nên chỉ overview , những sinh viên còn lại khó nắm được .",
-      "label": 0
-   },
-   {
-      "text": "máy tính cập nhật nhanh hơn .",
-      "label": 0
    },
    {
       "text": "vui , hòa đồng , nhiệt tình .",
@@ -848,16 +800,8 @@
       "label": 2
    },
    {
-      "text": "tuy nhiên cô nên cân nhắc lại về số lượng yêu cầu đối với sinh viên để sinh viên không bị khớp vì quá nhiều dẫn đến làm qua loa cho có , như vậy thì kết quả lại không tốt .",
-      "label": 0
-   },
-   {
       "text": "cô rất tận tâm , rất ok , em rất thích cách dạy và học của cô ( mặc dù hơi nhanh tí ) .",
       "label": 2
-   },
-   {
-      "text": "mong thầy và nhà trường xem xét lại những điều em vừa nói .",
-      "label": 0
    },
    {
       "text": "thầy tận tâm , nhiệt tình , tạo động lực cho sinh viên .",
@@ -868,52 +812,12 @@
       "label": 2
    },
    {
-      "text": "cần tăng cương trao đổi giữa sinh viên và giáo viên .",
-      "label": 0
-   },
-   {
-      "text": "nói chung là nghe không bao giờ nghe rõ được .",
-      "label": 0
-   },
-   {
-      "text": "cách truyền đạt của giáo viên chưa có sức hút đối với sinh viên nhiều cho lắm .",
-      "label": 0
-   },
-   {
       "text": "cô giáo thân thiện dễ gần , thực hành nhiều .",
       "label": 2
    },
    {
-      "text": "chưa tiếp thu trọn vẹn .",
-      "label": 0
-   },
-   {
-      "text": "cần cải tiến trang thiết thực hành .",
-      "label": 0
-   },
-   {
-      "text": "giảng kỹ hơn .",
-      "label": 0
-   },
-   {
-      "text": "còn hơi kéo thời gian .",
-      "label": 0
-   },
-   {
       "text": "có nhiều bài tập về nhà cơ bản lẫn nâng cao và giảng viên sửa bài đủ .",
       "label": 2
-   },
-   {
-      "text": "thầy rất hiền và kiên trì giảng dạy cho lớp mặc dù môn học này đối với em không được hứng thú lắm .",
-      "label": 0
-   },
-   {
-      "text": "đôi lúc giảng bài hơi nhanh .",
-      "label": 0
-   },
-   {
-      "text": "có một số buổi không đi dạy .",
-      "label": 0
    },
    {
       "text": "thầy nhiệt tình và dạy dễ hiểu .",
@@ -924,2660 +828,100 @@
       "label": 2
    },
    {
-      "text": "cấu trúc đề cương của thầy chưa rõ ràng , lý thuyết chưa được trình bày rõ trong các buổi học .",
-      "label": 0
-   },
-   {
-      "text": "tài liệu hỗ trợ toàn tiếng anh rất khó học .",
-      "label": 0
-   },
-   {
-      "text": "chưa nhận được gì từ môn học này .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên không hề giảng dạy , chỉ đưa đề cương rồi thôi .",
-      "label": 0
-   },
-   {
       "text": "bài tập mỗi tuần đều có và đầy đủ .",
       "label": 2
-   },
-   {
-      "text": "em xin cảm ơn .",
-      "label": 2
-   },
-   {
-      "text": "thầy cần phải cho sinh viên biết được học môn này có tác dụng gì và làm được gì khi học xong .",
-      "label": 0
-   },
-   {
-      "text": "đề nghị tăng thời gian thưc hành .",
-      "label": 0
-   },
-   {
-      "text": "không được làm những chuyện riêng trong lúc dạy thực hành .",
-      "label": 0
-   },
-   {
-      "text": "hỗ trợ thêm giáo trình không phải slide cho sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "cô wzjwz259 rất vui và nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "giáo viện nhiệt tình , tận tâm .",
-      "label": 2
-   },
-   {
-      "text": "kiến thức được giảng viên trình bày rõ ràng , dễ hiểu cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "cần thêm nhiều kit để thực hành .",
-      "label": 0
-   },
-   {
-      "text": "dạy khó hiểu quá nhanh .",
-      "label": 0
-   },
-   {
-      "text": "luôn gần gũi , tham khảo ý kiến sinh viên và thống nhất cũng sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "sắp xếp lịch học bù chưa hợp lý .",
-      "label": 0
-   },
-   {
-      "text": "nhà trường nên đưa môn học này vào thời khóa biểu bắt buộc ở học kỳ 1 của các sinh viên năm nhất nhằm giúp các em nắm biết được mình nên học gì , mình có nên chuyển đổi ngành hay không .",
-      "label": 0
-   },
-   {
-      "text": "thời gian thực hành cần nhiều hơn .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên rất nhiệt tình trong giảng dạy .",
-      "label": 2
-   },
-   {
-      "text": "slide chuẩn bị chưa tốt .",
-      "label": 0
-   },
-   {
-      "text": "thầy hay đòi hỏi sinh viên những điều hơi quá cao .",
-      "label": 0
-   },
-   {
-      "text": "cô giảng hướng dẫn nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "chúng em đã gặp khó khắn với khổ giấy nhỏ , mô hình thì lớn và phức tạp .",
-      "label": 0
-   },
-   {
-      "text": "giảng quá nhiều không đánh vào trọng tâm .",
-      "label": 0
-   },
-   {
-      "text": "em không muốn nói gì nhưng mong thầy xem lại cách đánh giá sinh viên để công bằng hơn , cái sinh viên không biết không phải chỉ ở cúp tiết mà còn ở cách giảng dạy , truyền đạt ở giảng viên , ví dụ như cô wzjwz324 , rất dễ hiểu , tận tâm .",
-      "label": 0
-   },
-   {
-      "text": "cô có nhiều hình thức giảng dạy hay .",
-      "label": 2
-   },
-   {
-      "text": "hơi khó .",
-      "label": 0
-   },
-   {
-      "text": "thầy đi trễ .",
-      "label": 0
-   },
-   {
-      "text": "giảng tốt .",
-      "label": 2
-   },
-   {
-      "text": "nói mở rộng nhiều vấn đề về môn học .",
-      "label": 2
-   },
-   {
-      "text": "cần tăng cường nội dung nghe và nói để sinh viên giao tiếp tốt hơn bằng tiếng anh .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên tạo điều kiện làm nhiều bài tập .",
-      "label": 0
-   },
-   {
-      "text": "hỗ trợ thêm về các thiết bị dạy và học .",
-      "label": 0
-   },
-   {
-      "text": "ít giải bài tập trên lớp .",
-      "label": 0
    },
    {
       "text": "chia sẻ .",
       "label": 1
    },
    {
-      "text": "bám sát nội dung chính .",
-      "label": 2
-   },
-   {
-      "text": "cần thêm các đoạn code cho các giải thuật bổ sung các phương pháp để giải quyết các bài toán liệt kê .",
-      "label": 0
-   },
-   {
-      "text": "thông tin đầy đủ về bài tập và các nguồn tham khảo .",
-      "label": 2
-   },
-   {
-      "text": "cô tận tâm , nhiệt tình , phương pháp dạy dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "thầy giảng rất dễ hiểu và thú vị , thu hút .",
-      "label": 2
-   },
-   {
-      "text": "hướng dẫn chi tiết về cách thực hành .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên chỉ cho đồ án và giải đáp các yêu cầu đồ án , không cung cấp tài liệu hay hướng dẫn cơ bản , sinh viên tự tìm hiểu với lý do là hệ tài năng nên cần tự xoay sở .",
-      "label": 0
-   },
-   {
-      "text": "môn học toàn kiến thức mới mẻ , giảng viên nên giảng chi tiết hơn .",
-      "label": 0
-   },
-   {
-      "text": "đến khi cuối kỳ , chỉ cần sinh viên mắc một sai sót nhỏ thì sẽ rớt môn .",
-      "label": 0
-   },
-   {
-      "text": "cần thay đổi cách dạy và nội dung học của phần thực hành , các bài thực hành hiện tại của môn mạng máy tính chưa đảm bảo hiệu quả .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy hay , tận tình góp ý từng bài .",
-      "label": 2
-   },
-   {
-      "text": "cơ sở vật chất , phỏng máy không đủ phích cắm cho dụng cụ thực hành và số lượng sinh viên , máy còn tiềm ẩn nhiều virus .",
-      "label": 0
-   },
-   {
-      "text": "trên lớp lý thuyết giảng viên yêu cầu sinh viên phải thực hiện đồ án theo những gì mình hướng dẫn , những nhóm sinh viên bổ sung thêm những liên hệ thực tiễn đều bị cho là sai , không phù hợp với đồ án .",
-      "label": 0
-   },
-   {
-      "text": "thầy giảng bài hay và hiệu quả !",
-      "label": 2
-   },
-   {
-      "text": "giảng viên nhiệt tình vui vẻ .",
-      "label": 2
-   },
-   {
-      "text": "phòng học nên có rèm che sáng để khi chiếu slide được nhìn rõ hơn .",
-      "label": 0
-   },
-   {
-      "text": "chương trình dạy lý thuyết và thực hành nên khớp với nhau hơn , tránh tình trạng thực hành trước khi học lý thuyết .",
-      "label": 0
-   },
-   {
-      "text": "thầy giảng dạy nhiệt tình , dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "mong giảng viên ngày càng chấn chỉnh việc dạy học để các khoá sau được hiểu tốt hơn .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy rất có tâm , và giảng cho sinh viên rất nhiều thứ !",
-      "label": 2
-   },
-   {
-      "text": "nội dung khảo sat quá dài , nhiều mục lặp đi lặp lại , nhiều bạn khảo sát mà không cần đọc , toàn tích chàn .",
-      "label": 0
-   },
-   {
-      "text": "dạy tốt và rất nhiệt tình chỉ dạy hoc sinh .",
-      "label": 2
-   },
-   {
-      "text": "nhiệt tình , tân tâm .",
-      "label": 2
-   },
-   {
-      "text": "nhưng học mới thấy kiến thức thầy dạy rất hay , bám sát thực tế , thầy dạy rất nhiệt tình , vui vẻ , khác với mọi người nói .",
-      "label": 2
-   },
-   {
-      "text": "bài tập rất hay .",
-      "label": 2
-   },
-   {
-      "text": "thầy cô cần cho nhiều dạng bài tập sát với đề thi hơn .",
-      "label": 0
-   },
-   {
-      "text": "thầy giảng hay nhưng nên tự tin hơn , nói to hơn để học sinh hiểu bài một cách rõ ràng hơn .",
-      "label": 2
-   },
-   {
-      "text": "mong thầy vui tính , gần gũi với sinh viên hơn .",
-      "label": 2
-   },
-   {
-      "text": "giáo viên vui tính , hòa đồng , nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "cung cấp kiến thức trọng tâm .",
-      "label": 2
-   },
-   {
-      "text": "cố gắng truyền đạt một cách tốt nhất để sinh viên được hiểu .",
-      "label": 2
-   },
-   {
-      "text": "giọng của giảng viên nhỏ dù đã sử dụng micro .",
-      "label": 0
-   },
-   {
       "text": "dù phương pháp học tập này khá hiệu quả nhưng vẫn có chút nào đó nghi ngờ từ phần thuyết trình của các bạn , liệu các kiến thức đó có chuẩn xác và cập nhật chưa .",
       "label": 1
-   },
-   {
-      "text": "giáo viên có phong cách giảng dạy nghiêm túc .",
-      "label": 2
-   },
-   {
-      "text": "cô rất vui tính nà , không khí lớp lúc nào cũng vui hết , cô dạy rất hay , dễ hiểu !",
-      "label": 2
-   },
-   {
-      "text": "giảng viên giảng dạy rất tốt , thường xuyên cung cấp thêm nhiều kiến thức .",
-      "label": 2
-   },
-   {
-      "text": "thầy luôn nhiệt tình , có những chia sẻ rất gần gũi với sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "có khả năng truyền đạt tốt .",
-      "label": 2
-   },
-   {
-      "text": "thậm chí còn không có bài nào khó bằng các bài trong nội dung của lớp chuyên tin ở các trường cấp 3 .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy tận tụy và tâm huyết .",
-      "label": 2
-   },
-   {
-      "text": "thầy nên có cách dạy mới cho môn học này để được kết quả tốt cho tất cả mọi người thay vì để rớt rất nhiều người !",
-      "label": 0
-   },
-   {
-      "text": "lịch thi thực hành cần được thông báo sớm tới sinh viên và phù hợp với thời gian môn học .",
-      "label": 0
-   },
-   {
-      "text": "cô nên giảng kỹ và chi tiết từng bài vì nhiều bài đa số các bạn chưa hiểu thì cô lại giảng nhanh để chuyển qua bài khác .",
-      "label": 0
-   },
-   {
-      "text": "dạy tốt đúng trọng tâm những gì cần biết .",
-      "label": 2
-   },
-   {
-      "text": "nhiệt tình , lên lớp đúng giờ , dạy dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "nếu em buồn ngủ , dù lên lớp em vẫn sẽ ngủ , mà ngủ ở trên lớp thì đau lưng và tê chân lắm .",
-      "label": 0
-   },
-   {
-      "text": "cơ mà em học môn này em hiểu colonlove .",
-      "label": 2
-   },
-   {
-      "text": "thiếu kinh nghiệm truyền đạt .",
-      "label": 0
-   },
-   {
-      "text": "bài giảng thú vị .",
-      "label": 2
-   },
-   {
-      "text": "em nghĩ nội dung thực hành nên gần với đồ án hơn .",
-      "label": 0
-   },
-   {
-      "text": "thầy nhiệt huyết và giảng bao quát đề cập đến nhiều khía cạnh của bài học vấn đề .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên giảng bài kỹ .",
-      "label": 2
-   },
-   {
-      "text": "hệ thống đồ án chấm điểm theo mức độ hoàn thành của sinh viên , tạo sự ganh đua không hề nhẹ với những nhóm làm chung đồ án , kích thích sáng tạo không ngừng tìm hiểu xây dựng thêm chức năng mới cho đồ án nếu muốn được điểm cao .",
-      "label": 2
-   },
-   {
-      "text": "nhiệt tình , tâm huyết .",
-      "label": 2
-   },
-   {
-      "text": "ít chú trọng phần ngữ pháp .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên còn chưa tận tâm , phong cách giảng dạy chưa thu hút được sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "giảng rất dễ hiểu , hướng dẫn làm thực hành tốt .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy rất nhiệt tình , khi dạy thầy luôn đi tới từng sinh viên để hướng dẫn .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên nhiệt tình trong giảng dạy và chấm điểm .",
-      "label": 2
-   },
-   {
-      "text": "cách truyền đạt kiến thức đối với em là rất hiệu quả , trao đổi bài với sinh viên , cô rất nhiệt tình !",
-      "label": 2
-   },
-   {
-      "text": "giảng dạy hay , dễ hiểu , tận tình .",
-      "label": 2
-   },
-   {
-      "text": "kiến thức rộng , kinh nghiệm thực tế nhiều , truyền cảm hứng cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "cách dạy sáng tạo .",
-      "label": 2
-   },
-   {
-      "text": "giảng bài dễ tiếp thu .",
-      "label": 2
-   },
-   {
-      "text": "em rất hài lòng với cô .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy dễ hiểu , sinh động .",
-      "label": 2
-   },
-   {
-      "text": "cô chưa nắm bắt được thực trạng học của sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "ảnh hưởng đến tiến độ học tập và quỹ thời gian của sinh viên ( do học bù ) .",
-      "label": 0
-   },
-   {
-      "text": "cô giảng bài dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "điều em hài lòng nhất đó là thầy đi rất đúng giờ và không dạy quá nhanh .",
-      "label": 2
-   },
-   {
-      "text": "nên có giáo trình thống nhất cho tất cả các lớp và học kỳ học .",
-      "label": 0
-   },
-   {
-      "text": "em nghĩ cần có các bài tập lớn để nâng cao khả năng lập trình của các sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "rất nhiệt tình với sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên có phương pháp giảng dạy hay , cập nhật , phù hợp với sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "giảng dạy tốt và có tâm .",
-      "label": 2
-   },
-   {
-      "text": "dạy lý thuyết hơi nhiều .",
-      "label": 0
    },
    {
       "text": "giảng viên chấm bài quy chụp theo kết quả .",
       "label": 1
    },
    {
-      "text": "thời lượng môn học quá dài , sinh viên cảm thấy mệt mỏi .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên vui tính dễ tương tác với sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "nhiệt tình hay giúp đỡ sinh viên khi không biết , cho nhiều bài tập .",
-      "label": 2
-   },
-   {
-      "text": "thầy cho điểm phần nào còn theo cảm tính , chưa được công bằng .",
-      "label": 0
-   },
-   {
-      "text": "thầy giảng dạy rất nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "thầy nhiệt tình , bài giảng phong phú đa dạng .",
-      "label": 2
-   },
-   {
       "text": "không có gì đặc biệt .",
       "label": 1
-   },
-   {
-      "text": "mỗi tháng chỉ gặp giảng viên một lần rất khó cho việc học hỏi , hướng dẫn từ giáo viên .",
-      "label": 0
-   },
-   {
-      "text": "thầy nên chuẩn bị riêng một slide cho mình để giảng dạy , không nên lấy slide của người khác rồi đến khi sơ sót , thầy lại lấy cái lý do \" đây không là slide của tôi \" , \" cái này tôi cũng không rõ nữa \" .",
-      "label": 0
-   },
-   {
-      "text": "thầy cho làm các bài tập tại lớp trong khi sinh viên chưa biết gì về vấn đề đó .",
-      "label": 0
-   },
-   {
-      "text": "đôi khi đi quá sâu vào một vấn đề bên lề .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên dạy tận tâm , nhiệt tình , dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "cô thật nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "phòng thực hành tốt .",
-      "label": 2
-   },
-   {
-      "text": "nói chuyện lan man , không liên quan đến môn học quá nhiều .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên rất tận tâm .",
-      "label": 2
-   },
-   {
-      "text": "phân bổ hợp lý thời gian học và nên cho xem nhiều video hơn là nghe .",
-      "label": 0
-   },
-   {
-      "text": "thầy bận nhiều nên cũng nghỉ nhiều , hi vọng thầy có thể sắp xếp thời gian .",
-      "label": 0
-   },
-   {
-      "text": "giáo viên sử dụng giờ trên lớp hiệu quả .",
-      "label": 2
-   },
-   {
-      "text": "giáo viên tận tình , dạy truyền đạt tốt .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên dạy tốt , nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên tạo cảm hứng cho sinh viên học tập .",
-      "label": 2
-   },
-   {
-      "text": "chán .",
-      "label": 0
-   },
-   {
-      "text": "thầy nhiệt tình , tận tâm giúp đỡ sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "dạy quá chậm , quá cặn kẽ .",
-      "label": 0
-   },
-   {
-      "text": "thầy wzjwz174 ít cho bài tập về nhà .",
-      "label": 0
-   },
-   {
-      "text": "thầy đôi khi nói hơi khó hiểu .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên tận tâm , nhiệt tình , hỗ trợ giải đáp thắc mắc môn học cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "nên đi sâu vào vấn đề , giúp sinh viên hiểu tốt môn học , và nên có những ứng dụng cụ thể mà môn học đem lại .",
-      "label": 0
    },
    {
       "text": "làm bài tập .",
       "label": 1
    },
    {
-      "text": "cứ ngỡ được 10 điểm là chắc chắn rồi .",
-      "label": 0
-   },
-   {
-      "text": "thầy yêu cầu quá cao đối với một sinh viên có thể tiếp thu mọi kỹ năng cần truyền đạt vào một đồ án .",
-      "label": 0
-   },
-   {
-      "text": "thêm phòng thiết bị để thực hành .",
-      "label": 0
-   },
-   {
-      "text": "dễ hiểu đầy đủ .",
-      "label": 2
-   },
-   {
       "text": "điểm .",
       "label": 1
-   },
-   {
-      "text": "giáo viên tốt bụng , vui tính .",
-      "label": 2
-   },
-   {
-      "text": "slide quá khó hiểu , nhiều chỗ không giải thích rõ ràng , đặc biệt là các bài hướng dẫn thực hành .",
-      "label": 0
-   },
-   {
-      "text": "nói rõ mục tiêu cũng như các bước làm của lab , khối lượng bài tập vừa phải .",
-      "label": 2
-   },
-   {
-      "text": "giải đáp kịp thời những thắc mắc cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên nhiệt tình , phương pháp dạy dễ tiếp cận , dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "phòng học cần lắp thêm quạt và ổ cắm vì sinh viên phải sử dụng laptop để làm bài tập , cần có thêm màn che cửa sổ để có thể theo dõi bài giảng trên slide tốt hơn .",
-      "label": 0
-   },
-   {
-      "text": "bài tập không cho ví dụ về nhà để xem lại .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên thiếu rất nhiều hoạt động để việc học bớt nhàm chán khi quá bám sát bài học .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy dễ hiểu , rất hài lòng .",
-      "label": 2
-   },
-   {
-      "text": "micro và các thiết bị âm thanh , máy chiếu cần nâng cấp .",
-      "label": 0
-   },
-   {
-      "text": "cách giảng bài dễ hiểu , hay .",
-      "label": 2
-   },
-   {
-      "text": "đầy đủ kiến thức .",
-      "label": 2
-   },
-   {
-      "text": "chất lượng phòng máy rất tệ .",
-      "label": 0
-   },
-   {
-      "text": "thầy giảng ngắn gọn , đầy đủ .",
-      "label": 2
-   },
-   {
-      "text": "tốt giỏi chu đáo .",
-      "label": 2
-   },
-   {
-      "text": "tuy có phần chém gió kinh điển nhưng kiến thức , hiểu biết rộng , đặc biệt về công nghệ .",
-      "label": 2
-   },
-   {
-      "text": "chờ học sinh gửi email mới show được slide to lên , giảng cho qua loa không hỏi học sinh có hiểu gì hay không ?",
-      "label": 0
-   },
-   {
-      "text": "tạo niềm vui cho bọn em tuy lý thuyết bọn em rất đuối sức .",
-      "label": 2
-   },
-   {
-      "text": "nhiệt tình , truyền cảm hứng .",
-      "label": 2
-   },
-   {
-      "text": "thầy hài hước , giọng truyền cảm .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy rất nhiệt tình , tâm huyết , dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "không hiểu cách chấm bài thi của thầy .",
-      "label": 0
-   },
-   {
-      "text": "tiết học chưa được thu hút .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên nên thay đổi phương pháp giảng dạy để tương tác nhiều hơn với sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "cần vào thẳng nội dung .",
-      "label": 0
-   },
-   {
-      "text": "thầy đẹp trai , dạy dễ hiểu , hay trò chuyện thực tiễn với học sinh .",
-      "label": 2
-   },
-   {
-      "text": "cô dạy trên lớp và thực hành tận tâm .",
-      "label": 2
-   },
-   {
-      "text": "em rất hài lòng về thầy .",
-      "label": 2
-   },
-   {
-      "text": "thầy quá bảo thủ , thầy luôn cho rằng ý kiến của thầy là đúng nhất , ngoài ra mọi ý kiến khác đều sai .",
-      "label": 0
-   },
-   {
-      "text": "thầy wzjwz252 giảng bài rất thu hút , kiến thức thầy rất rộng , luôn giải đáp thắc mắc cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên rất hòa đồng vui vẻ , nhiệt tình trong giảng dạy .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên tận tâm , tạo điều kiện cho học sinh làm bài tập .",
-      "label": 2
-   },
-   {
-      "text": "cần giải bài tập nhiều hơn .",
-      "label": 0
-   },
-   {
-      "text": "kiến thức thực tiễn của thầy rộng , giảng dạy vui vẻ .",
-      "label": 2
-   },
-   {
-      "text": "cô cũng không cung cấp hay giải thích gì đáp án của bài thi .",
-      "label": 0
-   },
-   {
-      "text": "thầy rất nhiệt tình , nói rất nhiều đến khản giọng mà sức truyền tải không bằng thầy wzjwz159 .",
-      "label": 2
-   },
-   {
-      "text": "kiến thức giảng dạy môn tiếng anh hầu như không giúp ích nhiều cho sinh viên trong việc tìm hiểu các tài liệu chuyên ngành .",
-      "label": 0
-   },
-   {
-      "text": "thấy rất hiền , rất chi là hơi trẻ con .",
-      "label": 2
-   },
-   {
-      "text": "giảng dạy hay , dễ hiểu , cuốn hút sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "cách tìm kiếm chúng ở đâu , khai thác chúng ở đâu chứ không phải là phải nhớ mấy cái phương thức hay các hàm rồi viết lên giấy vào đề thi cuối kỳ .",
-      "label": 0
-   },
-   {
-      "text": "giảng hơi nhanh , chưa kỹ lắm .",
-      "label": 0
-   },
-   {
-      "text": "những phần trọng tâm bài tập thì cũng không nói được \" đây là phần quan trọng có trong đề thi các em cần chú ý \" .",
-      "label": 0
-   },
-   {
-      "text": "nghe , nói luyện tập cao .",
-      "label": 2
-   },
-   {
-      "text": "giáo viên giảng hay dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "sử dụng phần mềm crack .",
-      "label": 0
-   },
-   {
-      "text": "nhiều khi dạy quá thời gian .",
-      "label": 0
-   },
-   {
-      "text": "tuy dạy chậm giúp học sinh dễ hiêu tuy nhiên nhiều bài khó thì sẽ khiến sinh viên dễ chán .",
-      "label": 0
-   },
-   {
-      "text": "thầy vui tính , thương sinh viên , dạy dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "thầy bằng nhiệt tình tận tụy với sinh viên trong việc hướng dẫn đồ án .",
-      "label": 2
-   },
-   {
-      "text": "dạy dễ hiểu , thân thiện .",
-      "label": 2
-   },
-   {
-      "text": "có các phần ôn tập không liên tới bài kiểm tra .",
-      "label": 0
-   },
-   {
-      "text": "không nên tổ chức thực hành hình thức 2 .",
-      "label": 0
-   },
-   {
-      "text": "sự thân thiện và tận tình đối với học viên .",
-      "label": 2
-   },
-   {
-      "text": "thầy giảng bài nhiệt tình , gần gũi với sinh viên , nội dung không hiểu có thể hỏi ngay thầy tại lớp .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên cần nắm vững xem sinh viên có hiểu được bài hay không và đưa ra phương án để sinh viên nắm vững kiến thức .",
-      "label": 0
-   },
-   {
-      "text": "thầy thiện nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "truyền đạt thực tiễn vấn đề .",
-      "label": 2
-   },
-   {
-      "text": "giáo viên rất nhiệt tình và tâm huyết đối với sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "âm thanh thầy giảng hơi nhỏ , khó khăn trong việc nghe giảng .",
-      "label": 0
-   },
-   {
-      "text": "nên thay đổi hình thức khảo sát với môn học này thì môn học này không có lên lớp và chỉ có đến hạn thì báo cáo với giảng viên .",
-      "label": 0
-   },
-   {
-      "text": "sinh viên hỏi , nhận câu trả lời cũng như không hỏi .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy khá nhiệt tình , vui tính .",
-      "label": 2
-   },
-   {
-      "text": "em nghĩ chỉ nên bắt buộc các bài tập có dạng căn bản , còn bài tập tương tự thì chỉ khuyến khích sinh viên làm thêm .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy rất hay ạ !",
-      "label": 2
-   },
-   {
-      "text": "không thống nhất trước về hình thức thi và làm bài tập , đến những tuần cuối cùng mới công bố .",
-      "label": 0
-   },
-   {
-      "text": "nhằm giảm thời lượng giảng dạy cũng như sự thú vị khi học môn toán .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên dạy nhiệt tình , dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "em mong cô cũng như toàn thể các giảng viên hãy xem xét lại việc điểm danh vì đại học dù sao cũng là tự học chứ không phải như là phổ thông nữa .",
-      "label": 0
-   },
-   {
-      "text": "cô cực kỳ nhiệt huyết , cô rất dễ thương colonlove cô yêu học trò của mình , cô cực kỳ khách quan , phong cách làm việc của cô rất giống người nước ngoài , em thích cô .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên nhiệt tình , tận tâm với công việc , slide dễ hiểu , hoạt động học tập sôi nổi .",
-      "label": 2
-   },
-   {
-      "text": "chú ý giữ sức khỏe , nhất là cổ họng colonsmile .",
-      "label": 0
-   },
-   {
-      "text": "thầy tận tâm , nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "máy ở phòng thực hành quá tệ .",
-      "label": 0
-   },
-   {
-      "text": "thầy rất dễ thương .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên nhiệt tình , thân thiện .",
-      "label": 2
-   },
-   {
-      "text": "thầy truyền đạt rất tận tình , dễ hiểu lượng bài tập , nội dung thi hợp lý , vừa sức với sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên nên đến đúng giờ hơn và cho nhiều bài tập hơn .",
-      "label": 0
-   },
-   {
-      "text": "em thấy những nội dung như vậy rất mơ hồ , có tính áp đặt suy nghĩ cho người học .",
-      "label": 0
-   },
-   {
-      "text": "cần nâng cấp máy tính trong phòng thực hành , nhiều kit de2 bị lỗi cần sửa chữa hoặc thay mới .",
-      "label": 0
-   },
-   {
-      "text": "em thấy môn này nhiều lý thuyết không đáp ứng đủ trong việc làm đồ án .",
-      "label": 0
-   },
-   {
-      "text": "tạo điều kiện cho sinh viên làm việc nhóm .",
-      "label": 2
-   },
-   {
-      "text": "phương pháp dạy chưa hay .",
-      "label": 0
-   },
-   {
-      "text": "hay bị về trễ colonsad .",
-      "label": 0
-   },
-   {
-      "text": "cần dạy chi tiết hơn .",
-      "label": 0
-   },
-   {
-      "text": "cô giảng rất nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "dạy rất chi tiết và đầy đủ những kiến thức quan trọng .",
-      "label": 2
-   },
-   {
-      "text": "đề thi thực hành cần nêu yêu cầu cụ thể , rõ ràng hơn .",
-      "label": 0
-   },
-   {
-      "text": "giọng của giảng viên rất khó nghe nên không thể nghe giảng hết những điều thầy nói .",
-      "label": 0
-   },
-   {
-      "text": "giảng dạy hay , nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên biết cách truyền đạt , giảng rất hay và dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "dạy hơi nhiều , và hơi nhanh .",
-      "label": 0
-   },
-   {
-      "text": "nên tạo không khí thoải mái cho tiết học để sinh viên dễ hiểu bài và thêm yêu thích môn học của giảng viên .",
-      "label": 0
-   },
-   {
-      "text": "giảng dạy tận tâm .",
-      "label": 2
-   },
-   {
-      "text": "cả năm toàn học vòng lặp \" if \" \" for \" \" while \" đến bữa cuối mới lơ mơ học được struct với tạo file header mà ra đề 5 điểm trong phần đó .",
-      "label": 0
-   },
-   {
-      "text": "gần gũi , thân thiện với sinh viên , khả năng truyền đạt kiến thức tốt .",
-      "label": 2
-   },
-   {
-      "text": "quá dễ dẫn đến buồn ngủ .",
-      "label": 0
    },
    {
       "text": "giảng viên không có tính hài hước .",
       "label": 1
    },
    {
-      "text": "vui tính , nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "thầy vui tính , giảng bài hay , đưa nhiều thông tin thực tế vào bài giảng .",
-      "label": 2
-   },
-   {
-      "text": "thẩy wzjwz311 rất vui và nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "giáo viên giảng dạy lôi cuốn .",
-      "label": 2
-   },
-   {
-      "text": "nhiệt tình , dễ gần , truyền đạt tận tâm .",
-      "label": 2
-   },
-   {
-      "text": "phương pháp truyền đạt của giảng viên chưa hiệu quả lắm .",
-      "label": 0
-   },
-   {
-      "text": "giáo viên chưa tạo được không khí vui vẻ trong lớp học .",
-      "label": 0
-   },
-   {
-      "text": "thầy giúp em biết mạch số là gì .",
-      "label": 2
-   },
-   {
-      "text": "có lúc thầy lạc đề .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy hơi chậm .",
-      "label": 0
-   },
-   {
-      "text": "lần được học thầy , thấm nhiều thứ quá .",
-      "label": 2
-   },
-   {
-      "text": "nhiều phần trong slide bài giảng của giảng viên không chính xác .",
-      "label": 0
-   },
-   {
-      "text": "môn học cần phân chia hợp lý giữa các phần , phần nào khó cần nhiều thời gian để học nó , phần nào đã học thì chỉ ra những điểm đặc biệt cũng như thời gian học phần đó rút ngắn lại để các phần chưa học khác sẽ có thời gian nhiều hơn .",
-      "label": 0
-   },
-   {
-      "text": "thực hành đúng tiêu chí môn học , đi từ dễ đến khó cho sinh viên học tập từng bước dễ hiểu , giảng viên tích cực giải đáp thắc mắc và hỗ trợ sinh viên trong giờ thực hành .",
-      "label": 0
-   },
-   {
-      "text": "dạy dễ hiểu , sâu rộng .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy nhiệt tình , vui vẻ .",
-      "label": 2
-   },
-   {
-      "text": "thầy cực kỳ tâm lý , vui tính , dạy nhiệt tình và tận tụy với học trò .",
-      "label": 2
-   },
-   {
-      "text": "thầy luôn chủ động tạo tranh luận và kiểm tra bài tập đầu giờ để sinh viên dễ dàng nắm bắt kiến thức .",
-      "label": 2
-   },
-   {
-      "text": "nội dung tiết học còn lan man , cảm tưởng như thầy đang dạy về tiếng anh chuyên ngành , chứ không đào sâu về kỹ thuật .",
-      "label": 0
-   },
-   {
-      "text": "nên tự tin hơn trong việc giảng dạy .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên có cập nhật thông tin mới nhất về tình hình thực tế .",
-      "label": 2
-   },
-   {
-      "text": "giáo viên rất nhiệt tình đối với sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "cảm thấy hứng thú khi lên lớp .",
-      "label": 2
-   },
-   {
-      "text": "cùng một kiến thức nhưng cách truyền đạt của thầy dễ hiểu hơn , phù hợp với đại đa số sinh viên và tất nhiên là hữu dụng cho các môn khác chứ không hề lan man , thiếu trọng tâm như các giảng viên toán khác .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên chưa bám sát được sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "nhiều lúc thầy vẫn nói lý thuyết nhiều gây nhàm chán .",
-      "label": 0
-   },
-   {
-      "text": "phần kiểm tra , thi cử đối với môn này nên đề cao tính tư duy logic của người học cũng như khả năng áp dụng kiến thức đã học vào thực tế thực nghiệm bằng cách chủ yếu đánh giá cao phần thực hành , viết code , làm project .",
-      "label": 2
-   },
-   {
-      "text": "do môn còn mới nên nhiều vấn đề trục trặc trong quá trình thực hành thầy vẫn chưa giải quyết được , nhưng vẫn rất ủng hộ thầy .",
-      "label": 2
-   },
-   {
-      "text": "luôn đảm bảo giờ giấc trong tiết học .",
-      "label": 2
-   },
-   {
-      "text": "phòng lab chán lắm , hư hỏng hết cả .",
-      "label": 0
-   },
-   {
-      "text": "nội dung môn học còn khô , cứng !",
-      "label": 0
-   },
-   {
-      "text": "cô nói hơi nhỏ nên hơi buồn ngủ .",
-      "label": 0
-   },
-   {
-      "text": "có lúc dạy khó hiểu .",
-      "label": 0
-   },
-   {
-      "text": "thầy cho bài tập lạ , đa dạng .",
-      "label": 2
-   },
-   {
-      "text": "sau khi đã học xong môn nhập môn điện tử , em thiết nghĩ môn học này cần có thêm những phần học về thực tế , để sinh viên chúng em có thêm động lực khi học những phần lý thuyết đôi khi \" khô khan \" và \" xa lạ \" đồng thời sẽ tạo được sự đam mê với bộ môn điện tử nói chung ngay từ những ngày đầu học \" nhập môn \" .",
-      "label": 0
-   },
-   {
-      "text": "giáo viên vui tính , tích cực .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy nghiêm túc .",
-      "label": 2
-   },
-   {
-      "text": "cơ sở dữ liệu năm nay đã kết hợp với thiết kế cơ sở dữ liệu rồi , kiến thức nhiều mà thi có phần trắc nghiệm nữa thì đánh giá kiến thức học được chưa đảm bảo cho lắm ạ .",
-      "label": 0
-   },
-   {
-      "text": "nội dung có liên hệ nhiều với thực tế .",
-      "label": 2
-   },
-   {
-      "text": "nhiệt tình , luôn luôn giúp học sinh hiểu vấn đề cặn kẽ .",
-      "label": 2
-   },
-   {
-      "text": "ra đề thì phải có đáp án , để sinh viên tập dần thói quen đọc code .",
-      "label": 0
-   },
-   {
-      "text": "em nghĩ là cần thêm bài tập trên lớp và giải ngay trên lớp .",
-      "label": 0
-   },
-   {
-      "text": "môn học chỉ nên thuyết trình tìm hiểu về egov không làm đồ án .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên có nhiều phương pháp giảng hay .",
-      "label": 2
-   },
-   {
-      "text": "thực hành hình thức 2 khó có thể tham gia học thường xuyên lắm ạ !",
-      "label": 0
-   },
-   {
-      "text": "cô giảng rất hay , rất nhiệt tình khi giảng dạy , rất vui tính .",
-      "label": 2
-   },
-   {
-      "text": "giáo viên luôn chia sẻ những ứng dụng của kiến thức đã học với thực tiễn , chia sẻ khá nhiều kinh nghiệm thực tế vô cùng bổ ích với sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy nhiệt tình , rất chu đáo .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy rất nhiệt tình với sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "em thấy rất hài lòng về môn học này , nên em không có ý kiến gì khác cả .",
-      "label": 2
-   },
-   {
-      "text": "bàn ghế còn bụi .",
-      "label": 0
-   },
-   {
-      "text": "cô vui tính , dạy tốt .",
-      "label": 2
-   },
-   {
-      "text": "nhiệt tình , giỏi hay giúp đỡ sinh viên và cho nhiều bài tập .",
-      "label": 2
-   },
-   {
-      "text": "kể chuyện hay .",
-      "label": 2
-   },
-   {
-      "text": "tôi đã thấy giảng viên chỉ nhìn qua chưa đầy 30 giây và cho điểm 9 ngay lập tức .",
-      "label": 0
-   },
-   {
-      "text": "phòng thực hành nên nâng cấp máy tính .",
-      "label": 0
-   },
-   {
-      "text": "thầy ít khi nhắc lại về phần đã dạy hôm trước .",
-      "label": 0
-   },
-   {
-      "text": "thầy nên tham gia thực hành cùng sinh viên , không phải là chỉ ngồi một chỗ , tụi em tự mày mò làm xong rồi thầy mới xuống chấm điểm .",
-      "label": 0
-   },
-   {
-      "text": "mong muốn giảng viên nào cũng áp dụng như vậy thì quá tốt .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên cần chuẩn bị giáo án trước khi đến lớp , giảng viên diễn đạt không tốt cần phải học cách diễn đạt cho sinh viên dễ hiểu .",
-      "label": 0
-   },
-   {
-      "text": "cần học môn lập trình trực quan trước .",
-      "label": 0
-   },
-   {
-      "text": "cách truyền đạt kiến thức kém hiệu quả , cô dạy giống như là không dạy , chỉ đọc chữ trong slide rồi cho sinh viên làm bài tập .",
-      "label": 0
-   },
-   {
-      "text": "làm tốn thời gian truyền đạt , dẫn đến hứng thú lên lớp nghe giảng bị hạn chế .",
-      "label": 0
-   },
-   {
-      "text": "thầy luôn tạo cơ hội để sinh viên có thể được thực hành .",
-      "label": 2
-   },
-   {
-      "text": "thêm phần anh văn chuyên ngành vào nội dung học .",
-      "label": 0
-   },
-   {
-      "text": "cảm ơn cô và chúc cô nghỉ đẻ vui vẻ , mẹ tròn con vuông !",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy tốt , giảng dễ hiểu .",
-      "label": 2
-   },
-   {
       "text": "mở rộng kiến thức nâng cao cho sinh viên .",
       "label": 1
-   },
-   {
-      "text": "chưa có thời gian cho sinh viên ngẫm nghĩ điều mình mới học mà đã qua nội dung khác để theo kịp chương trình .",
-      "label": 0
-   },
-   {
-      "text": "dạy dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "thầy vui vẻ , thoải mái .",
-      "label": 2
-   },
-   {
-      "text": "thầy tận tâm , dạy dễ hiểu , vui tính , lớp học thoải mái dễ tiếp thu .",
-      "label": 2
-   },
-   {
-      "text": "em thích học môn này với cô wzjwz157 .",
-      "label": 2
-   },
-   {
-      "text": "cô tận tình hướng dẫn chỉ bảo .",
-      "label": 2
-   },
-   {
-      "text": "cập nhật điểm thi giữa kỳ chậm , nên sinh viên không biết mức độ phấn đấu như thế nào !",
-      "label": 0
-   },
-   {
-      "text": "giảng dạy tận tâm , nhiệt tình , dễ hiểu .",
-      "label": 2
    },
    {
       "text": "đôi khi trong giờ học kể vài chuyện về đời để đỡ chán =) .",
       "label": 1
    },
    {
-      "text": "thầy không vui tính .",
-      "label": 0
-   },
-   {
-      "text": "giảng nhiều phần nâng cao làm sinh viên bối rối .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy vui vẻ .",
-      "label": 2
-   },
-   {
-      "text": "cô dạy dễ hiểu , hỗ trợ tốt cho các bạn .",
-      "label": 2
-   },
-   {
-      "text": "thời gian nộp bài tại lớp hơi ngắn .",
-      "label": 0
-   },
-   {
-      "text": "cần có sách học hay , chi tiết , hiệu quả colonsmilesmile .",
-      "label": 0
-   },
-   {
-      "text": "phương pháp giảng dạy còn khó hiểu .",
-      "label": 0
-   },
-   {
-      "text": "tận tình chu đáo .",
-      "label": 2
-   },
-   {
-      "text": "nội dung lý thuyết và thực hành của môn học không có bất kỳ liên hệ gì với nhau nội dung lý thuyết không phù hợp với môn học và không tạo được sự quan tâm và mong muốn của sinh viên về kiến thức quản trị mạng như mong đợi .",
-      "label": 0
-   },
-   {
-      "text": "cần có khả năng truyền đạt tốt hơn !",
-      "label": 0
-   },
-   {
-      "text": "giảng viên dạy có hiệu quả cao , mang tính thực tiễn .",
-      "label": 2
-   },
-   {
-      "text": "giáo viên truyền đạt kiến thức đầy đủ , dễ hiểu , nhiệt tình giảng dạy .",
-      "label": 2
-   },
-   {
-      "text": "em xin lỗi nhưng đó là sự thật !",
-      "label": 0
-   },
-   {
-      "text": "cô tận tâm , hỗ trợ nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "không có giáo trình .",
-      "label": 0
-   },
-   {
-      "text": "phương pháp tư duy cho sinh viên , để sinh viên tự giải quyết các vấn đề .",
-      "label": 2
-   },
-   {
-      "text": "giảng dạy dễ hiểu , linh động trong nhiều bài tập .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên giảng dạy tận tình , vui vẻ giúp học viên nhận thức được nhiều kiến thức .",
-      "label": 2
-   },
-   {
-      "text": "cải thiện chất lượng phòng máy thực hành .",
-      "label": 0
-   },
-   {
-      "text": "nếu được chọn , cô luôn là lựa chọn hàng đầu cho các môn kinh tế .",
-      "label": 2
-   },
-   {
-      "text": "cần thêm bài tập và rèn luyện kỹ năng giao tiếp .",
-      "label": 0
-   },
-   {
-      "text": "nhiệt tình giảng dạy .",
-      "label": 2
-   },
-   {
-      "text": "thoải mái về thời gian .",
-      "label": 2
-   },
-   {
-      "text": "em còn chưa thấy mặt thầy nữa , hoặc có nhưng quên rồi colondoublesurprise .",
-      "label": 0
-   },
-   {
-      "text": "các nội dung môn học thầy triển khai không đúng theo khung , mới vào mà thầy dạy servlet thì rất khó hiểu , sinh viên có góp ý qua thầy chủ nhiệm nhưng vẫn không thay đổi .",
-      "label": 0
-   },
-   {
       "text": "mọi việc điều được sinh viên tự học , tự tìm hiểu thông qua các trang mạng , thông qua việc email trực tiếp với giảng viên .",
       "label": 1
-   },
-   {
-      "text": "slide bài giảng còn lẫn lộn anh việt , phần tiếng việt thì giảng viên lại dùng google dịch nên đọc không hiểu .",
-      "label": 0
-   },
-   {
-      "text": "cách truyền đạt tốt , tận tâm .",
-      "label": 2
-   },
-   {
-      "text": "cô rất nhiệt tình và thân thiện với sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên tận tâm với việc dạy học , tạo cảm hứng học tập cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "cần cho nhiều thời gian để sinh viên có đủ thời gian hoàn thành đồ án môn học .",
-      "label": 0
-   },
-   {
-      "text": "thầy rất vui tính , truyền tải thông tin tuyệt vời .",
-      "label": 2
-   },
-   {
-      "text": "đôi lúc hỏi một số câu hỏi rất mơ hồ khiến sinh viên không biết đang được hỏi về khía cạnh nào , cũ hay mới ( chương trước hay chương hiện tại ) .",
-      "label": 0
-   },
-   {
-      "text": "hy vọng thầy sẽ cải tiến làm cho hoạt động sôi nổi hơn .",
-      "label": 0
-   },
-   {
-      "text": "quá nhàm chán , không nâng cao được kiến thức .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy khá nhiệt tình vui tính .",
-      "label": 2
-   },
-   {
-      "text": "thầy khá nhiệt huyết và gần gủi với sinh viên .",
-      "label": 2
    },
    {
       "text": "bài tập khắt khe .",
       "label": 1
    },
    {
-      "text": "theo thời khóa biểu hiện nay thì học thực hành trước nên sinh viên lúc thực hành chưa hiểu vấn đề nên khó khăn trong việc làm bài .",
-      "label": 0
-   },
-   {
-      "text": "cô nên tăng tốc độ giải bài hơn .",
-      "label": 0
-   },
-   {
-      "text": "tài liệu tiếng anh gây khó khăn cho ôn thi .",
-      "label": 0
-   },
-   {
-      "text": "giảng dạy tận tình , vui vẻ .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên dạy có tâm huyết , kỹ càng với sinh viên , nhiệt tình giúp đỡ .",
-      "label": 2
-   },
-   {
-      "text": "khả năng truyền đạt kiến thức không cao .",
-      "label": 0
-   },
-   {
-      "text": "cần nâng cao chất lượng trang thiết bị .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên vui tính , thân thiện .",
-      "label": 2
-   },
-   {
-      "text": "đầu tư các thiết bị cho sinh viên mượn , như điện thoại android , windows phone .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy tốt và tâm huyết .",
-      "label": 2
-   },
-   {
-      "text": "việc phân chia nhóm không hợp lý dẫn tới chất lượng học tập không tốt .",
-      "label": 0
-   },
-   {
-      "text": "thầy nhiệt tình , vui vẻ .",
-      "label": 2
-   },
-   {
-      "text": "tận tâm nhiệt tình , giảng giải cho sinh viên chưa hiểu tỉ mỉ .",
-      "label": 2
-   },
-   {
-      "text": "phần máy tính không hỗ trợ cho việc học nhiều , chỉ làm sinh viên phân tán .",
-      "label": 0
-   },
-   {
-      "text": "sự nhiệt tình , tâm huyết .",
-      "label": 2
-   },
-   {
-      "text": "đó là tiền của họ , họ muốn dùng thì tùy họ , người khác nghèo không phải lỗi của họ , chưa kể tiền thuế họ đóng góp cho nước cũng đủ để gọi là xây dựng rồi .",
-      "label": 0
-   },
-   {
-      "text": "các dạng bài tập rõ ràng , tài liệu cung cấp đầy đủ .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên dạy tận tình , cung cấp đầy đủ kiến thức cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "cần tăng thời gian học .",
-      "label": 0
-   },
-   {
-      "text": "nên tổ chức thêm những buổi hội thảo liên quan đến nội dung môn học .",
-      "label": 0
-   },
-   {
-      "text": "dạy đúng trọng tâm .",
-      "label": 2
-   },
-   {
-      "text": "đề nghị thầy share slide giảng dạy trên lớp .",
-      "label": 0
-   },
-   {
-      "text": "nên trang bị trang thiết bị cho phòng thực hành và phòng lab để sinh viên có thể thực hành và học trực tiếp trên thiết bị thật .",
-      "label": 0
-   },
-   {
-      "text": "thầy giảng dạy rất nhiệt tình và vui tính .",
-      "label": 2
-   },
-   {
-      "text": "nên cải tiến hệ thống chấm điểm online , update bài tập cho tất cả học sinh làm rồi có bảng xếp hạng , như bên codefun của miền bắc .",
-      "label": 0
-   },
-   {
-      "text": "bài giảng thực tế .",
-      "label": 2
-   },
-   {
-      "text": "kiến thức thầy dạy rất hay và bổ ích .",
-      "label": 2
-   },
-   {
-      "text": "hạn chế dạy bằng slide .",
-      "label": 0
-   },
-   {
-      "text": "nói sâu về vấn đề khó .",
-      "label": 0
-   },
-   {
-      "text": "thầy lên lớp không đúng giờ giấc , thường xuyên đi trễ .",
-      "label": 0
-   },
-   {
-      "text": "chất lượng phòng máy kém .",
-      "label": 0
-   },
-   {
-      "text": "phong cách giảng dạy rất hay .",
-      "label": 2
-   },
-   {
-      "text": "giáo viên giảng dạy sử dụng nhiều ví dụ thực tiễn .",
-      "label": 2
-   },
-   {
-      "text": "cần tuân thủ đúng và đủ giờ .",
-      "label": 0
-   },
-   {
-      "text": "thầy rất nhiệt tình và năng động , học thầy có thêm nhiều kiến thức mới không chỉ gói gọn trong nội dung môn học .",
-      "label": 2
-   },
-   {
-      "text": "thầy giảng bài kỹ , dễ hiểu !",
-      "label": 2
-   },
-   {
-      "text": "nhiệt tình giảng dạy , giải đáp thắc mắc rất chi tiết , cung cấp đầy đủ kiến thức cần thiết để kiểm tra .",
-      "label": 2
-   },
-   {
-      "text": "thầy giảng nhanh và cách truyền đạt hơi khó hiểu , đưa ra khá ít ví dụ để sinh viên có thể hiểu bài rõ hơn .",
-      "label": 0
-   },
-   {
-      "text": "các giảng dạy của giảng viên còn khó hiểu , rối rắm .",
-      "label": 0
-   },
-   {
-      "text": "điện thoại không liên lạc được .",
-      "label": 0
-   },
-   {
       "text": "chưa học nhiều với thầy nên chưa có ý kiến gì về thầy .",
       "label": 1
-   },
-   {
-      "text": "nội dung thực hành nên thay đổi doubledot mỗi tuần thực hành các phần lý thuyết trên lớp và giảng viên hướng dẫn làm đồ án cuối kỳ .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên tăng cường giải đề của các năm .",
-      "label": 2
-   },
-   {
-      "text": "thiếu thiết bị thật để thực hành .",
-      "label": 0
-   },
-   {
-      "text": "nhiệt tình giúp đỡ sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "giảng bài rất dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "thực sự em vẫn chưa hiểu ngoài việc để làm bài tập thì wireshark được dùng để làm việc gì khác .",
-      "label": 0
-   },
-   {
-      "text": "em nghĩ cơ sở vật chất vẫn còn yếu kém , ngồi xa không thể nhìn rõ được slide bài giảng của cô giáo , phòng học rất nóng .",
-      "label": 0
-   },
-   {
-      "text": "thầy giải nhiều bài tập cho sinh viên giúp sinh viên củng cố kiến thức sau khi học lý thuyết .",
-      "label": 2
-   },
-   {
-      "text": "cô rất vui vẻ , nhiệt tình , tâm huyết .",
-      "label": 2
-   },
-   {
-      "text": "cần có các thiết bị di động thật để sinh viên thực hành khi cần thiết , vì các chương trình mô phỏng trên máy tính là không đầy đủ .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy dễ hiểu , code mẫu đầy đủ .",
-      "label": 2
-   },
-   {
-      "text": "điều em hài lòng nhất đó là thầy với tốc độ phù hợp và rất dễ hiễu .",
-      "label": 2
-   },
-   {
-      "text": "nên thống nhất lại nội dung môn học so với cách thi của phòng đào tạo .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy hay , nhiệt tình , không bao chê bai sinh viên dù mặc dù không tốt mà hướng sinh viên đến suy nghĩ tích cực hơn , cố gắng hơn .",
-      "label": 2
-   },
-   {
-      "text": "giảng dạy nhiệt tình , quan tâm tới sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "cần tăng chú ý về kỹ năng cần thiết trong toeic như nghe , đọc .",
-      "label": 0
-   },
-   {
-      "text": "kính mong giảng viên có thể cho thêm nhiều bài tập nhằm giúp sinh viên luyện tập , nắm bắt nội dung môn học và vận dụng nó hiệu quả hơn , giúp ích cho việc học các môn sau này .",
-      "label": 0
-   },
-   {
-      "text": "cần chú trọng hơn vấn đề học thực hành phòng máy không đáp ứng yêu cầu doubledot không có trình biên dịch giáo viên thực hành không sử dụng hiệu quả giờ thực hành .",
-      "label": 0
-   },
-   {
-      "text": "thầy wzjwz239 nói chuyện cọc lốc , không hiểu vấn đề gì hỏi thầy thì thầy lại như quát vào mặt , tạt nước lạnh , … nói chuyện xưng hô mày - tao ( có lúc thì xưng tớ - cậu nhưng lời nói đầy ẩn ý ) , hay nói móc và tìm cách bắt bẻ sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "thầy có hướng dẫn đồ án rất tận tình , luôn giải đáp các câu hỏi và thắc mắc của sinh viên về đồ án rất nhanh .",
-      "label": 2
-   },
-   {
-      "text": "giúp sinh viên cảm thấy thoải mái trong giờ học .",
-      "label": 2
-   },
-   {
-      "text": "cô giảng dạy tận tình .",
-      "label": 2
-   },
-   {
-      "text": "hơi khó tính ạ .",
-      "label": 0
-   },
-   {
-      "text": "kiến thức nhiều , khó tiếp thu , phân loại chưa rõ .",
-      "label": 0
-   },
-   {
-      "text": "thầy nên cho thêm bài tập về nhà .",
-      "label": 0
-   },
-   {
-      "text": "những điều này nghe tưởng chừng không liên quan đến môn học , nhưng lại giúp cho sinh viên phần nào có định hướng được công việc tương lai của mình .",
-      "label": 2
-   },
-   {
-      "text": "em học ở phòng mà bên cạnh là công trình đang thi công , khá là ồn ào , vì thế khi học đến phần nghe , em không thể nghe được gì , và bài nghe bị gián đoạn .",
-      "label": 0
-   },
-   {
-      "text": "thầy không sửa bài tập , trên lớp thầy chỉ giảng lý thuyết theo em như thế là ít có hiệu quả .",
-      "label": 0
-   },
-   {
-      "text": "thầy ít quan tâm .",
-      "label": 0
-   },
-   {
-      "text": "giảng dạy tích cực , dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "không dùng điểm để đánh giá , nó làm sinh viên không dám thực hiện .",
-      "label": 0
-   },
-   {
-      "text": "dạy hay , dễ hiểu , tận tình .",
-      "label": 2
-   },
-   {
-      "text": "không khí lớp học thì không được sôi nổi .",
-      "label": 0
-   },
-   {
-      "text": "bài tập thực hành mỗi tuần hơi khó , mong rằng ở mỗi bài tập giảng viên có thể cung cấp bài giải kỹ càng để sinh viên có thể nghiên cứu và hiểu được cách làm .",
-      "label": 0
-   },
-   {
-      "text": "thầy rất thoáng và thoải mái .",
-      "label": 2
-   },
-   {
-      "text": "thầy cần có tương tác với sinh viên qua mail hay moodle vì có đôi lúc có thắc mắc nhưng thầy không phản hồi .",
-      "label": 0
    },
    {
       "text": "kiến thức đơn giản .",
       "label": 1
    },
    {
-      "text": "phần lý thuyết lặp lại nên chán , không thu hút .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy rất hay và rất nhiệt tình .",
-      "label": 2
-   },
-   {
       "text": "giảng viên giảng dạy theo đúng thời gian môn học .",
       "label": 1
-   },
-   {
-      "text": "thầy rất dễ gần .",
-      "label": 2
-   },
-   {
-      "text": "khi sinh viên hỏi phải có câu trả lời chính xác không được bỏ qua những câu hỏi của sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "chấm điểm dựa trên mức độ thấu hiểu bài , hay đưa ra lời khuyên hữu ích .",
-      "label": 2
-   },
-   {
-      "text": "luôn nhiệt tình trong giảng dạy .",
-      "label": 2
-   },
-   {
-      "text": "thầy vui vẻ .",
-      "label": 2
-   },
-   {
-      "text": "giảng bài kỹ càng , dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "cần tăng thời gian thực hành nói lên .",
-      "label": 0
-   },
-   {
-      "text": "cô giảng dạy rất nhiệt tình và dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "giảng dạy tốt .",
-      "label": 2
-   },
-   {
-      "text": "nhiệt tình , cô dễ thương =) .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên dạy truyền cảm hứng , sử dụng thời gian hợp lý .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên dạy tận tâm nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "thì có thể lướt nhanh hơn vì phần này khá dễ .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên có chuyên môn rất tốt , kiến thức rộng , giải đáp được mọi thắc mắc của sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên hiền lành , nhiệt tình giúp đỡ khá nhiều cho sinh viên khi sinh viên không hiểu bài .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên rất tận tình !",
-      "label": 2
-   },
-   {
-      "text": "thầy rất nhiệt tình , năng nổ .",
-      "label": 2
-   },
-   {
-      "text": "truyền đạt có cảm hứng , hướng dẫn sinh viên học tập thế nào sau khi ra trường để xin việc .",
-      "label": 2
-   },
-   {
-      "text": "học thoải mái , ít áp lực .",
-      "label": 2
-   },
-   {
-      "text": "cô dễ thương và giảng bài tận tình .",
-      "label": 2
-   },
-   {
-      "text": "cô dạy rất tốt , nhiều bài tập .",
-      "label": 2
-   },
-   {
-      "text": "thầy giảng dạy nhiệt tình dễ hiểu , sửa bài tập cẩn thận .",
-      "label": 2
    },
    {
       "text": "giảng viên rất đảm bảo giờ lên lớp .",
       "label": 1
    },
    {
-      "text": "thầy là giảng viên dạy toán hay nhất trường .",
-      "label": 2
-   },
-   {
-      "text": "môn học này thật sự rất khó và chương trình học hơi nặng , lúc trước môn này dược chia ra làm 2 môn là cấu trúc dữ liệu 1 và cấu trúc dữ liệu 2 , năm nay lại gộp thành một nên sinh viên khó tải nổi kiến thức .",
-      "label": 0
-   },
-   {
-      "text": "cần kết nối được mạng trong phòng lab .",
-      "label": 0
-   },
-   {
-      "text": "nhiệt tình , phương pháp giảng dạy rất hiệu quả cách truyền đạt rất dễ hiểu và dễ tiếp thu biết cách truyền cảm hứng và tạo động lực học tập cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "luyện nghe nhiều hơn .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên giảng dạy rất truyền cảm , tạo cảm giác ham học và hệ thống bài tập dồi dào phong phú .",
-      "label": 2
-   },
-   {
-      "text": "thầy có cách giảng bài rất hay và dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy bằng slide bài giảng hơi nhanh .",
-      "label": 0
-   },
-   {
-      "text": "cách dạy của cô hay , thú vị , tạo động lực .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy vui vẻ , không có áp lực quá khắt khe .",
-      "label": 2
-   },
-   {
-      "text": "giải thích cặn kẽ đi sâu hơn nữa .",
-      "label": 0
-   },
-   {
-      "text": "cho bài tập nhiều em rất thích colonsmile .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên vui vẻ nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên nhiệt tình , phương pháp giảng dạy dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên rất tâm huyết và nhiệt tình , giảng bài dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "thầy wzjwz127 dạy rất nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "cô nhiệt tình và đưa ra bài giảng hợp lý , dễ hiểu , có thể vận dụng làm bài .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên dạy nhiệt tình , truyền đạt kiến dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "thời gian học tập luôn thiếu sót , giảng viên chưa nhiệt tình giảng dạy .",
-      "label": 0
-   },
-   {
-      "text": "rất thích được học cô .",
-      "label": 2
-   },
-   {
-      "text": "tiếp cận với sinh viên một cách thân thiện , phương pháp dạy khoa học , dễ tiếp thu , dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "chữ viết nhỏ .",
-      "label": 0
-   },
-   {
-      "text": "thường xuyên cho nghỉ mà không thông báo .",
-      "label": 0
-   },
-   {
-      "text": "dạy hơi cao so với năng lực .",
-      "label": 0
-   },
-   {
-      "text": "giáo viên nhiệt tình , tận tâm giúp đỡ sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "thích thầy chia sẻ kinh nghiệm .",
-      "label": 2
-   },
-   {
-      "text": "quá khó tính , giờ cao su , giảng dạy lan man không hiệu quả .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên giảng không hay , đã vậy còn không nhiệt tình , không vui vẻ , không tạo cơ hội cho sinh viên hỏi về bài giảng .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy không có sức hút , nhàm chán , gây buồn ngủ cho sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "thầy thật sự là một giảng viên dạy học rất có tâm .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy nhiệt tình , rất hăng hái .",
-      "label": 2
-   },
-   {
-      "text": "giọng cô êm êm , dễ buồn ngủ .",
-      "label": 0
-   },
-   {
-      "text": "truyền đạt nhiều kinh nghiệm tốt cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "khi phản ánh kết quả bài tập không đúng thì cô lại lơ , cười rồi bỏ đi , không có một đáp án cụ thể .",
-      "label": 0
-   },
-   {
-      "text": "thầy khá hài hước , nói những việc thực tế về ngành it , rất thiết thực .",
-      "label": 2
-   },
-   {
-      "text": "thầy wzjwz177 rất gần gũi với sinh viên , thầy phát âm tiếng anh cũng rất dễ nghe .",
-      "label": 2
-   },
-   {
-      "text": "phòng học ồn do cạnh khu xây dựng .",
-      "label": 0
-   },
-   {
-      "text": "giảng bài dễ tiếp thu nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "lớp đã nghỉ 4 tuần liên tiếp chưa tính một vài ngày nghỉ khác .",
-      "label": 0
-   },
-   {
-      "text": "em mong phần thực hành được hỗ trợ nhiều hơn nữa từ phía giảng viên .",
-      "label": 0
-   },
-   {
-      "text": "giảng bài khó hiểu .",
-      "label": 0
-   },
-   {
-      "text": "cô dạy rất nhiệt tình , cung cấp thông tin đầy đủ nhưng vẫn tạo điều kiện cho sinh viên tìm hiểu thêm .",
-      "label": 2
-   },
-   {
-      "text": "thầy rất nhiệt tình với học sinh .",
-      "label": 2
-   },
-   {
-      "text": "dễ học dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "hình như em đăng ký thầy dạy mà thầy dạy mấy buổi người khác dạy mấy buổi thì phải .",
-      "label": 0
-   },
-   {
-      "text": "chưa giảng dạy nhiều về bài tập , cũng như hướng dẫn sinh viên hướng giải quyết nó .",
-      "label": 0
-   },
-   {
-      "text": "thầy rất tận tình , luôn luôn giúp đỡ , hỗ trợ sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "thầy giảng rất hay và dễ hiểu , phong cách dạy độc đáo .",
-      "label": 2
-   },
-   {
-      "text": "thầy wzjwz237 rất vui và nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "nên đưa môn wzjwz129 vào giảng dạy ngay sau môn wzjwz130 và trước khi học các môn chuyên ngành .",
-      "label": 0
-   },
-   {
-      "text": "chất lượng tốt giáo viên nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên dạy rất nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy sát theo slide nhưng một số kiến thức bài tập lại khó hơn nhiều .",
-      "label": 0
-   },
-   {
-      "text": "trao dồi thêm về kỹ năng speaking và listening .",
-      "label": 0
-   },
-   {
-      "text": "ít bài tập .",
-      "label": 0
-   },
-   {
-      "text": "cô dạy có tâm huyết với học sinh , truyền đạt tốt , dễ hiểu .",
-      "label": 2
-   },
-   {
       "text": "đảm bảo giời lên lớp .",
       "label": 1
-   },
-   {
-      "text": "ngiêm túc , cứng rắn về vấn đề tự học .",
-      "label": 2
-   },
-   {
-      "text": "em mail bổ sung bài thực hành giáo viên không hồi đáp , mail xin sửa điểm giảng viên không reply đồng ý xem xét hay không đồng ý .",
-      "label": 0
-   },
-   {
-      "text": "thời gian cô up slide lên module còn chậm .",
-      "label": 0
-   },
-   {
-      "text": "thầy đưa ra những demo thực tế , giúp sinh viên dễ hiểu .",
-      "label": 2
    },
    {
       "text": "nope .",
       "label": 1
    },
    {
-      "text": "thầy cho khá nhiều bài tập đa dạng .",
-      "label": 2
-   },
-   {
-      "text": "các phần tiếng việt trong slide được ghi một cách khó hiểu và không rõ ràng , nhiều chỗ trong slide bài giảng có vẻ như được dịch bằng google dịch từ năm 2009 .",
-      "label": 0
-   },
-   {
-      "text": "cô quan tâm đến sinh viên và truyền đạt kiến thức rất bổ ích .",
-      "label": 2
-   },
-   {
-      "text": "không thực tế .",
-      "label": 0
-   },
-   {
-      "text": "tiết học của thầy rất vui .",
-      "label": 2
-   },
-   {
-      "text": "học trong phòng chất lượng cao hơn , phòng học hiện tại không có máy lạnh .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên chưa truyền đạt tốt , dạy còn chán , không có sự thu hút trong cách dạy lắm .",
-      "label": 0
-   },
-   {
-      "text": "hướng dẫn rất tận tình , trình bày hướng dẫn rất đẹp , có phong cách , thể hiện một thái độ rất nghiêm túc trong công việc giảng dạy .",
-      "label": 2
-   },
-   {
-      "text": "giảng bài dễ hiểu , dễ vận dụng .",
-      "label": 2
-   },
-   {
-      "text": "thầy vui tính dạy dễ hiểu và cung cấp nhiều thông tin hữu ích cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "thầy quá chuyên nghiệp .",
-      "label": 2
-   },
-   {
-      "text": "cô giảng có hơi khó hiểu .",
-      "label": 0
-   },
-   {
-      "text": "tạo bầu không khí thoải mái cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "em rất hài lòng về phương pháp giảng dạy của thầy .",
-      "label": 2
-   },
-   {
-      "text": "dạy nhiệt tình , theo sát môn học .",
-      "label": 2
-   },
-   {
-      "text": "vì tính cô kỹ nên đôi lúc nói quá nhiều về một vấn đề ( lặp đi lặp lại ) làm mất thời gian trên lớp và sử dụng giờ học không hiệu quả .",
-      "label": 0
-   },
-   {
-      "text": "mong giáo viên có thể giải đáp nhiều bài tập cho sinh viên hơn trên lớp .",
-      "label": 0
-   },
-   {
-      "text": "đầu tư thêm nhiều công cụ dạy học .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên rất đúng giờ .",
-      "label": 2
-   },
-   {
-      "text": "cách giảng dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "thang điểm đưa ra đầu khóa học không rõ ràng , nhất quán so với thang điểm cuối khóa .",
-      "label": 0
-   },
-   {
-      "text": "thầy hứa sẽ up điểm giữa kỳ sớm mà điểm giữa kỳ thì tới giờ này vẫn chưa có ?",
-      "label": 0
-   },
-   {
-      "text": "thực hành nhiều .",
-      "label": 0
-   },
-   {
-      "text": "nhiệt tình với sinh viên , tư tưởng thoải mái .",
-      "label": 2
-   },
-   {
-      "text": "cho sinh viên chép bài để nhớ kiến thức hơn , rèn luyện nhiều bài tập , dạy nhiệt tình .",
-      "label": 2
-   },
-   {
       "text": "nhiều hoạt động .",
       "label": 1
-   },
-   {
-      "text": "giảng viên áp dụng mô hình scrum để làm project là tốt nhưng không thành công .",
-      "label": 0
-   },
-   {
-      "text": "hay kể các chuyện liên quan đến thực tiễn giúp bọn em tiếp thu nhanh hơn và cũng có hứng thú trong quá trình học .",
-      "label": 2
-   },
-   {
-      "text": "đây là điều gây bức xúc với sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "khó hiểu ạ .",
-      "label": 0
-   },
-   {
-      "text": "ân cần , tận tụy .",
-      "label": 2
-   },
-   {
-      "text": "máy chiếu chưa rõ nét cho toàn thẻ sinh viên trong phòng .",
-      "label": 0
-   },
-   {
-      "text": "cô nhiệt tình , sẵn sàng giảng lại các kiến thức mà sinh viên chưa nắm được khi học lý thuyết .",
-      "label": 2
-   },
-   {
-      "text": "nâng cao trang thiết bị phòng học .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên nhiệt tình , hết mình truyền đạt kiến thức .",
-      "label": 2
-   },
-   {
-      "text": "cô có thể giảng phần lý thuyết kỹ hơn được không ạ .",
-      "label": 0
-   },
-   {
-      "text": "thầy nên share lại slide cho sinh viên !",
-      "label": 0
-   },
-   {
-      "text": "nhiều tâm huyết với nghề .",
-      "label": 2
-   },
-   {
-      "text": "dạy tốt , tận tình .",
-      "label": 2
-   },
-   {
-      "text": "thầy rất nhiệt tình trong việc trả lời các câu hỏi phụ của sinh viên .",
-      "label": 2
    },
    {
       "text": "hiện tại em không nhớ nổi mặt của thầy fraction cô như nào nữa colondoublesurprise .",
       "label": 1
    },
    {
-      "text": "phòng thực hành cần nâng cấp và bổ sung thêm thiết bị để mọi người đều có điều kiện thực hành thực tế nhiều hơn .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên nên trao đổi với sinh viên nhiều hơn , giao bài tập và giải thích những thắc mắc của sinh viên về môn học .",
-      "label": 0
-   },
-   {
-      "text": "cô thân thiện với học sinh , truyền cảm hứng , động lực tốt .",
-      "label": 2
-   },
-   {
-      "text": "thầy kiểm tra quá nhiều .",
-      "label": 0
-   },
-   {
-      "text": "thầy rất khắt khe trong việc dùng từ chuyên ngành .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy rất tốt .",
-      "label": 2
-   },
-   {
-      "text": "những gì được học nó nhằm mục đích gì ?",
-      "label": 0
-   },
-   {
-      "text": "cần cung cấp thêm tài liệu học tập môn học này .",
-      "label": 0
-   },
-   {
-      "text": "cách dạy của thầy rất nhàm chán , không có nhiều hoạt động thực tế , bài tập thầy cho chỉ áp sát lý thuyết mà chưa thực tế .",
-      "label": 0
-   },
-   {
-      "text": "nên dành nhiều thời gian cho bài tập và hướng dẫn cụ thể phương pháp giải hơn .",
-      "label": 0
-   },
-   {
-      "text": "đôi khi học sinh nào bận muốn về trước thầy vẫn cho .",
-      "label": 2
-   },
-   {
-      "text": "nhiều lúc lớp chỉ có hai người đi học .",
-      "label": 0
-   },
-   {
       "text": "có thể chia nhóm ra làm thực hành !",
       "label": 1
-   },
-   {
-      "text": "thầy wzjwz83 rất nhiệt huyết trong việc giảng dạy .",
-      "label": 2
-   },
-   {
-      "text": "thầy vui quá đi hi hi .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên nhiệt tình , chắt lọc nội dung cũng như mở rộng nhiều kiến thức về bộ môn .",
-      "label": 2
-   },
-   {
-      "text": "thầy giảng rất hay , rất tận tâm với sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "em mong có sự thống nhất giữa thầy cô trong quá trình giảng dạy môn này .",
-      "label": 0
-   },
-   {
-      "text": "chưa ổn .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên tận tâm , dạy tốt .",
-      "label": 2
-   },
-   {
-      "text": "sử dụng giờ học hiệu quả .",
-      "label": 2
-   },
-   {
-      "text": "cách nói chưa lôi cuốn .",
-      "label": 0
-   },
-   {
-      "text": "thầy không đảm bảo giờ lên lớp , nếu có nghỉ thầy cũng không thông báo trước rất vô lý .",
-      "label": 0
-   },
-   {
-      "text": "nhiệt tình truyền đạt kiến thức cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "lý thuyết và thực hành nên đi đôi với nhau .",
-      "label": 0
    },
    {
       "text": "thân .",
       "label": 1
    },
    {
-      "text": "thầy dạy quá tệ .",
-      "label": 0
-   },
-   {
-      "text": "không có nhiều bài tập để làm thêm .",
-      "label": 0
-   },
-   {
-      "text": "phòng học quá sáng , màn chiếu bị mờ rất khó nhìn , xin ban quản lý lắp rèm để sinh viên và giảng viên thuận tiện trong việc học tập và giảng dạy .",
-      "label": 0
-   },
-   {
-      "text": "giáo viên quá tốt .",
-      "label": 2
-   },
-   {
-      "text": "cần cân bằng việc giảng dạy giữa sinh viên yếu và khá trở lên .",
-      "label": 0
-   },
-   {
-      "text": "nhiệt tình , giảng dễ hiểu , dễ thương .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên dạy rất dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "tài liệu cung cấp thiếu .",
-      "label": 0
-   },
-   {
-      "text": "thầy nên đánh giá kỹ hoạt động trên lớp của từng thành viên trong nhóm , ai đóng góp nhiều , nghiêm túc .",
-      "label": 0
-   },
-   {
-      "text": "giáo viên lên lớp muộn , nghe điện thoại trong lúc lên lớp thường xuyên , nghỉ dạy không thông báo .",
-      "label": 0
-   },
-   {
-      "text": "đề nghị nên cho bài tập về nhà .",
-      "label": 0
-   },
-   {
-      "text": "mong thầy giảng giải và cho bài tập từng bước nhiều hơn .",
-      "label": 0
-   },
-   {
       "text": "thầy cho đề thực hành cũng khá hay , nhưng mà thật thì em toàn code mấy bài đó trên notepad rồi nộp , không test gì cả , nhưng được cái là đồ án 10 thì điểm thực hành cũng 10 luôn .",
       "label": 1
    },
    {
-      "text": "khó hiểu , không sinh động .",
-      "label": 0
-   },
-   {
-      "text": "chỉ dạy nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "giáo viên truyền đạt những vẫn đê sâu .",
-      "label": 2
-   },
-   {
-      "text": "chưa cung cấp cách nhìn sâu hơn về môn học vào thực tế hiện nay , chỉ mới mang tính trừu tượng .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên dạy dễ hiểu , và đầy đủ nội dung .",
-      "label": 2
-   },
-   {
-      "text": "không hướng dẫn kỹ .",
-      "label": 0
-   },
-   {
-      "text": "nhiệt tình , chi tiết .",
-      "label": 2
-   },
-   {
-      "text": "thầy cho chép bài ít thôi , tập trung sửa bài được không ạ .",
-      "label": 0
-   },
-   {
-      "text": "khả năng truyền đạt chưa đi vào lòng người cho lắm !",
-      "label": 0
-   },
-   {
-      "text": "thầy rất nhiệt tình , dạy rất kỹ , thầy cũng rất vui tính .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên nhiệt tình , vui vẻ , giờ học vui .",
-      "label": 2
-   },
-   {
-      "text": "cô dạy không hấp dẫn , tuy hay nhưng không kích thích được sinh viên hoạt động .",
-      "label": 0
-   },
-   {
       "text": "thưa , không có ạ .",
       "label": 1
-   },
-   {
-      "text": "kiến thức môn học mang lại tương đối đầy đủ và thực tế giúp sinh viên nắm rõ phương pháp và cách thức để học tập các môn chuyên ngành sau này .",
-      "label": 2
-   },
-   {
-      "text": "cách giảng dạy , tạo không khí sôi nổi trong lớp .",
-      "label": 2
-   },
-   {
-      "text": "trình bày bài giảng một cách khoa học và hợp lý .",
-      "label": 2
-   },
-   {
-      "text": "tuy nhiên , giờ trên lớp thầy chưa thực sự sử dụng hiệu quả lắm khi thiếu tương tác với sinh viên trong lớp để nắm tình hình học viên của mình .",
-      "label": 0
-   },
-   {
-      "text": "thầy dễ thương , nhiệt tình , dạy dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "nên cho thời gian học nhiều hơn 2 tiết .",
-      "label": 0
-   },
-   {
-      "text": "cô vui tính , hiền , khá nhiệt tình và gần gũi với sinh viên colonsmilesmile .",
-      "label": 2
-   },
-   {
-      "text": "những gì quan trọng cần nắm bắt và tìm hiểu thêm .",
-      "label": 0
-   },
-   {
-      "text": "cá nhân em thấy đôi khi nhìn thầy em cảm thấy hơi sợ sợ .",
-      "label": 0
-   },
-   {
-      "text": "rèn luyện được kỹ năng giao tiếp , mạnh dạng đứng trước lớp nói tiếng anh .",
-      "label": 2
-   },
-   {
-      "text": "thầy hướng dẫn thực hành hay .",
-      "label": 2
-   },
-   {
-      "text": "cập nhật kiến thức thực tế .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên nhiệt tình , luôn luôn đến lớp đúng giờ .",
-      "label": 2
-   },
-   {
-      "text": "chỉ có vấn đề thầy dạy hơi nhanh .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên truyền đạt còn chưa tốt .",
-      "label": 0
-   },
-   {
-      "text": "tình trạng nghỉ không thông báo cho sinh viên để sinh viên đứng đợi giảng viên gần hết giờ rồi ra về nhiều lần .",
-      "label": 0
-   },
-   {
-      "text": "cô giảng dạy chi tiết trong quá trình học .",
-      "label": 2
-   },
-   {
-      "text": "kiến thức chưa có trọng tâm .",
-      "label": 0
-   },
-   {
-      "text": "tiết học vui vẻ , thoải mái .",
-      "label": 2
-   },
-   {
-      "text": "chưa tương tác nhiều với sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "thân thiện , nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "yêu cầu quá cao đối với một sinh viên , mặc dù chỉ là một đồ án nhưng không nhất thiết phải quá chi tiết về mọi khía cạnh cụ thể .",
-      "label": 0
-   },
-   {
-      "text": "cô hướng dẫn phương pháp học tập hiệu quả .",
-      "label": 2
-   },
-   {
-      "text": "thầy cần hoạt động trao đổi nhiều hơn với sinh viên .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy rất dễ hiểu , đúng trọng tâm bài học .",
-      "label": 2
-   },
-   {
-      "text": "cho quá nhiều bài tập , chỉ nên cho bài tập ví dụ điển hình .",
-      "label": 2
-   },
-   {
-      "text": "giúp em hiểu ra được nhiều cái hay .",
-      "label": 2
-   },
-   {
-      "text": "thầy giảng rất hay , dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên giảng bài hơi nhàm chán , gây cảm giác buồn ngủ , có nhiều chỗ hơi lan man .",
-      "label": 0
-   },
-   {
-      "text": "giáo viên giạy theo cách quá thụ động , tạo sự nhàm chán cho sinh viên !",
-      "label": 0
-   },
-   {
-      "text": "thầy rất tận tâm nhưng không có kỹ năng sư phạm .",
-      "label": 0
-   },
-   {
-      "text": "nội dung hơi nhiều nên giảm bớt lại .",
-      "label": 0
-   },
-   {
-      "text": "thầy chỉ dạy rất tận tình , luôn hỏi học sinh phần nào chưa hiểu và giảng lại rất kỹ , những bài giảng của thầy rất hay .",
-      "label": 2
-   },
-   {
-      "text": "mong thầy giải bài tập trên lớp .",
-      "label": 0
-   },
-   {
-      "text": "do thời gian mỗi buổi học khá ngắn nên giảng viên cần tập trung vào những chủ đề quan trọng , phần còn lại nên để sinh viên tự tìm hiểu .",
-      "label": 0
-   },
-   {
-      "text": "giáo viên rất tận tâm nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "mong rằng những môn có thực hành , giáo viên nên mở chat box và forum cho sinh viên dễ trao đổi với nhau , cũng như nhanh chóng nhận được lời giải đáp thắc mắc từ giáo viên .",
-      "label": 0
-   },
-   {
-      "text": "cô dạy quá hay rồi .",
-      "label": 2
-   },
-   {
-      "text": "thêm hệ thống ổ điện ngầm dưới nền nhà để tiện cho việc sinh viên có thể cắm laptop phục vụ học tập .",
-      "label": 0
-   },
-   {
-      "text": "chất lượng môn học phù hợp .",
-      "label": 2
-   },
-   {
-      "text": "cô dạy rất nhiệt tình và rất kiên nhẫn với sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "có sai nhận sai và sửa đổi khắc phục .",
-      "label": 0
-   },
-   {
-      "text": "thầy dễ tính , dạy dễ hiểu , thầy dạy hay .",
-      "label": 2
-   },
-   {
-      "text": "giáo viên dễ gần , tận tâm .",
-      "label": 2
-   },
-   {
-      "text": "thầy rất vui tính dạy dễ hiểu .",
-      "label": 2
    },
    {
       "text": "không có hoạt động giảng dạy nào không hài lòng .",
@@ -3588,128 +932,12 @@
       "label": 1
    },
    {
-      "text": "môn học với kiến thức không quá nặng .",
-      "label": 2
-   },
-   {
-      "text": "nội dung thực hành đã cũ , không được đổi mới và không sát với thực tế .",
-      "label": 0
-   },
-   {
-      "text": "các code ví dụ không được chiếu hết trên slide .",
-      "label": 0
-   },
-   {
-      "text": "chỉ dạy tận tâm .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy nhiệt tình , chia sẻ những kiến thức bổ ích .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy rất nhiệt tình , dễ hiểu , tận tâm .",
-      "label": 2
-   },
-   {
-      "text": "giảng hơi ít .",
-      "label": 0
-   },
-   {
-      "text": "em mong môn này có thể áp dụng nhiều hơn trong những đồ án .",
-      "label": 0
-   },
-   {
-      "text": "giải ví dụ , bài tập nhiều hơn .",
-      "label": 0
-   },
-   {
-      "text": "thành thật mà nói thì sau khi học buổi đầu xong thì em không muốn học thêm buổi thứ hai .",
-      "label": 0
-   },
-   {
-      "text": "đề nghị thầy xem lại việc chấm chéo đồ án và báo cáo chéo đồ án .",
-      "label": 0
-   },
-   {
-      "text": "bài dạy phụ thuộc nhiều vào slide , cách truyền đạt chưa thực sự phù hợp với cá nhân .",
-      "label": 0
-   },
-   {
-      "text": "có slide bài giảng tiếng anh giúp nâng cao trình độ đọc hiểu tài liệu chuyên ngành và nâng cao kiến thức cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "học đúng giờ nhưng ra về thì sớm hơn quy định .",
-      "label": 0
-   },
-   {
-      "text": "chuyên nghiệp .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên thoải mái , hòa đồng .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy rất tốt !",
-      "label": 2
-   },
-   {
-      "text": "cách truyền đạt kiến thức của thầy đối với em thì em cảm thấy không phù hợp lắm , em cần phải rất rất tập trung và hỏi đi hỏi lại nhiều lần mới có thể nắm bắt kiến thức .",
-      "label": 0
-   },
-   {
-      "text": "thầy cho nghỉ hơi nhiều .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên nên cung cấp tài liệu học tập cho sinh viên !",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy nhiêt tình , kỹ càng !",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy hay , nhiều kiến thức mở rộng , được học trên slide tiếng anh .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy tốt không phụ thuộc nặng vào chương trình .",
-      "label": 2
-   },
-   {
-      "text": "slide bao nhiêu thầy đọc lại bấy nhiêu , cực kỳ khó hiểu và buồn ngủ .",
-      "label": 0
-   },
-   {
-      "text": "cải tiến trang thiết bị phòng thực hành .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên nên dạy đúng giờ hơn hạn chế cho sinh viên về sớm .",
-      "label": 0
-   },
-   {
-      "text": "em hi vọng trong các tiết học thầy có thể đi sâu vào kiến thức chuyên môn và giảm bớt thời lượng của hoạt động liên hệ thực tế .",
-      "label": 0
-   },
-   {
-      "text": "chân thành cảm ơn thầy .",
-      "label": 2
-   },
-   {
       "text": "không có ý kiến nhiều .",
       "label": 1
    },
    {
       "text": "không có .",
       "label": 1
-   },
-   {
-      "text": "cách chấm điểm của giảng viên không đánh giá đúng năng lực của sinh viên .",
-      "label": 0
    },
    {
       "text": "em không có ý kiến về mục này ạ .",
@@ -3720,448 +948,28 @@
       "label": 1
    },
    {
-      "text": "giảng quá khó hiểu .",
-      "label": 0
-   },
-   {
-      "text": "các thiết bị âm thanh cần được đảm bảo hơn .",
-      "label": 0
-   },
-   {
-      "text": "nên phát hành giáo trình chuẩn cho môn học .",
-      "label": 0
-   },
-   {
       "text": "dưới đây là hình thầy cung cấp toàn bộ tài liệu trong quá trình học .",
       "label": 1
-   },
-   {
-      "text": "lịch thực hành không được thông báo .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy rất tốt , nhiệt tình và rất dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "lắp quạt phù hợp vì phòng có 2 dãy quạt 2 bên nhưng ngồi ở dãy giữa vẫn nóng , cần có màn che cửa sổ và có ổ cắm điện .",
-      "label": 0
-   },
-   {
-      "text": "lên lớp toàn cho làm paper .",
-      "label": 0
    },
    {
       "text": "kiến thức được đưa vào ứng dụng nhiều bài toán .",
       "label": 1
    },
    {
-      "text": "giảng viên làm rất tốt trong việc giảng dạy bộ môn thực hành .",
-      "label": 2
-   },
-   {
-      "text": "cô wzjwz253 nhiệt tình , giảng bài kỹ .",
-      "label": 2
-   },
-   {
-      "text": "thầy wzjwz199 rất nhiệt tình trong quá trình giảng dạy .",
-      "label": 2
-   },
-   {
-      "text": "sau kỳ thi giữa kỳ cấu trúc dữ liệu lý thuyết ( chủ yếu là thi về thuật toán sắp xếp ) thì thầy mới cho làm bài tập về các thuật toán sắp xếp .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên nhiệt tình , gần gũi với sinh viên .",
-      "label": 2
-   },
-   {
       "text": "có nghĩ 2 buổi không hề báo trước .",
       "label": 1
-   },
-   {
-      "text": "them nhiều tài liệu và video hướng dẫn .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên nên cho số lượng bài tập vừa phải , giải chậm và sâu ở mỗi dạng toán đặc biệt là những dạng toán khó .",
-      "label": 0
-   },
-   {
-      "text": "cần có nhiều buổi thực hành trên thiết bị thật hoặc giảng viên nên đem thiết bị thật làm vài bày mẫu trên lớp .",
-      "label": 0
-   },
-   {
-      "text": "môn học nên tập trung vào chuyên sâu các mục , nên có biên soạn giáo trình mới , chuyên sâu hơn .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy dễ hiểu , rất hay .",
-      "label": 2
-   },
-   {
-      "text": "thời khóa biểu phân chia không hợp lý , chưa học lý thuyết đã phải học thực hành .",
-      "label": 0
-   },
-   {
-      "text": "cung cấp nhiều bài tập cho sinh viên tham khảo .",
-      "label": 2
-   },
-   {
-      "text": "thầy cô dạy chưa sâu vào bài học .",
-      "label": 0
-   },
-   {
-      "text": "nói nhỏ , rất khó nghe .",
-      "label": 0
-   },
-   {
-      "text": "thầy hầu như không giải đáp thắc mắc của sinh viên khi bài tập mắc lỗi hoặc có nhưng rất hời hợt .",
-      "label": 0
-   },
-   {
-      "text": "chưa thực sự tận dụng tốt thời gian và chưa mở rộng vấn đề .",
-      "label": 2
-   },
-   {
-      "text": "công bằng .",
-      "label": 2
-   },
-   {
-      "text": "thầy giảng rất kỹ và dễ hiểu , cho rất nhiều bài tập giúp sinh viên ứng dụng và nhớ được những gì đã học .",
-      "label": 2
-   },
-   {
-      "text": "cô dạy dễ hiểu , vui vẻ với sinh viên , cung cấp đầy đủ kiến thức cần thiết .",
-      "label": 2
-   },
-   {
-      "text": "bài giảng hơi khó hiểu .",
-      "label": 0
-   },
-   {
-      "text": "nên muốn nhà trường tăng thêm thời gian học lý thuyết của môn này .",
-      "label": 0
-   },
-   {
-      "text": "thường xuyên tổ chức thảo luận , thực hành nói .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên dạy có phần hơi nhanh .",
-      "label": 0
-   },
-   {
-      "text": "giúp chúng em học tập tốt hơn .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy hay tận tình .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy rất hay , chi tiết .",
-      "label": 2
-   },
-   {
-      "text": "tận tụy với sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "thầy rất nhiệt tình và có kiến thức sâu rộng , cung cấp nhiều kiến thức hay .",
-      "label": 2
-   },
-   {
-      "text": "hầu như trong cả năm học , giảng viên chỉ đi dạy đúng thời khoá biểu chỉ từ 2 đến 3 ngày , còn lại giảng viên lại tự ý dời lịch học sang ngày thứ 7 mà không hỏi ý kiến của sinh viên , vì vào ngày thứ 7 có rất nhiều sinh viên có lịch học môn khác .",
-      "label": 0
-   },
-   {
-      "text": "cần thêm nhiêu bài tập thực tế .",
-      "label": 0
-   },
-   {
-      "text": "không tập trung vào giảng kiến thức cho học sinh hiểu .",
-      "label": 0
-   },
-   {
-      "text": "thật sự rất thất vọng về việc dạy thực hành của thầy !",
-      "label": 0
-   },
-   {
-      "text": "góp ý doubledot thầy nên có cách tiếp cận khác để cân bằng giữa vấn đề ngoại ngữ và kiến thức chuyên ngành .",
-      "label": 0
    },
    {
       "text": "thầy dạy lý thuyết được .",
       "label": 1
    },
    {
-      "text": "thầy dạy nhanh , hay !",
-      "label": 2
-   },
-   {
-      "text": "nên cho nhiều bài tập hơn .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên nhiệt tình , quan tâm đến học sinh .",
-      "label": 2
-   },
-   {
-      "text": "môn học có 5 lab mà chỉ học 2 lab là thi cuối kỳ , thầy nên lên lớp đủ số buổi quy định .",
-      "label": 0
-   },
-   {
-      "text": "slide hơi khó hiểu .",
-      "label": 0
-   },
-   {
-      "text": "giáo viên thực hành cần quan tâm , chỉ dẫn sinh viên tận tình hơn .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên lên lớp đầy đủ .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên nhiệt tình , hỗ trợ sinh viên tốt .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên hay cho nghỉ học mà không báo trước .",
-      "label": 0
-   },
-   {
-      "text": "trang thiết bị còn hỏng hóc nhiều , thường xuyên trục trặc trong giờ học .",
-      "label": 0
-   },
-   {
-      "text": "hiểu tâm lý học sinh nên mọi người trong lớp đều chú ý giảng bài .",
-      "label": 2
-   },
-   {
-      "text": "phòng wzjwz325 thiết bị âm thanh hay xảy ra trục trặc làm gián đoạn buổi học .",
-      "label": 0
-   },
-   {
-      "text": "vui tính , thân thiện .",
-      "label": 2
-   },
-   {
-      "text": "nhiệt tình , năng nổ .",
-      "label": 2
-   },
-   {
-      "text": "không có sự thoải mái khi học tập .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên dạy tận tâm , nhiệt tình , lên lớp đúng giờ .",
-      "label": 2
-   },
-   {
-      "text": "mong cô cung cấp nhiều tài liệu có hướng dẫn giải cụ thể các dạng toán để đáp ứng nhu cầu tự học .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên nhiệt tình , vui vẻ , hoà đồng , gần gũi giúp sinh viên khá nhiều trong việc tiếp thu kiến thức .",
-      "label": 2
-   },
-   {
-      "text": "mong nhà trường xem xét lại để có sự nhất quán trong công tác dạy và chấm thi .",
-      "label": 0
-   },
-   {
-      "text": "truyền đật kiến thức tốt , dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "tài liệu thực hành nên nêu rõ mục tiêu cũng như kiến thức cần đạt được sau bài thực hành .",
-      "label": 0
-   },
-   {
-      "text": "và giảng dạy khó hiểu .",
-      "label": 0
-   },
-   {
-      "text": "ít quan sát sinh viên thực hành .",
-      "label": 0
-   },
-   {
-      "text": "có một bạn trong phòng của em học thầy ở học kỳ trước hâm mộ thầy !",
-      "label": 2
-   },
-   {
-      "text": "bài tập cuối kỳ làm quá nhiều .",
-      "label": 0
-   },
-   {
-      "text": "cô dạy có tâm , post tài liệu và bài tập lên moodle rất đầy đủ .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên truyền đạt chưa hay .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy hay , dễ hiểu , vui tính .",
-      "label": 2
-   },
-   {
-      "text": "cô dạy khá nhanh nên khó theo kịp bài giảng .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên nhiệt tình , tận tâm trong quá trình giảng dạy .",
-      "label": 2
-   },
-   {
-      "text": "thầy quan tâm sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "hướng dẫn cụ thể hơn .",
-      "label": 0
-   },
-   {
-      "text": "quá chú trọng vào việc luyện kỹ năng thi toeic .",
-      "label": 0
-   },
-   {
-      "text": "thầy rất đúng giờ giấc .",
-      "label": 2
-   },
-   {
-      "text": "thường thì 8h kém 10 mới bắt đầu học .",
-      "label": 0
-   },
-   {
-      "text": "cần cho biết rõ hơn nữa về cách thức vận dụng vào trong từng bài tập .",
-      "label": 0
-   },
-   {
-      "text": "vui vẻ , hài hòa , giảng dạy tích cực .",
-      "label": 2
-   },
-   {
-      "text": "cần cung cấp tài liệu bài giảng đầy đủ ngay từ những ngày đầu bắt đàu học .",
-      "label": 0
-   },
-   {
-      "text": "như vậy có đảm bảo được chất lượng giảng dạy không .",
-      "label": 0
-   },
-   {
-      "text": "cô rất vui tính , nhiệt tình , giảng bài tập chi tiết , dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "cập nhật điểm thực hành và nhận xét đầy đủ .",
-      "label": 2
-   },
-   {
-      "text": "điều chỉnh máy chiếu phù hợp với kích thước phông màn !",
-      "label": 0
-   },
-   {
-      "text": "giảng viên cần chú ý thêm về vấn đề lịch thi speaking , thông báo cho sinh viên biết và chuẩn bị trước nội dung thi .",
-      "label": 0
-   },
-   {
-      "text": "có những kiến thức cần thiết trong khi thực hành nhưng lý thuyết rất lâu sau mới dạy đến .",
-      "label": 0
-   },
-   {
-      "text": "cung cấp các tài liệu ít .",
-      "label": 0
-   },
-   {
-      "text": "cung cấp và thường xuyên cập nhật thêm tài liệu về môn học nhiều hơn , sử dụng giờ lên lớp hiệu quả hơn .",
-      "label": 0
-   },
-   {
-      "text": "em thật sự rất thích phong cách dạy học của cô wzjwz146 .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên ra đề thi hay .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên đánh giá rất chủ quan về ý kiến của mình .",
-      "label": 0
-   },
-   {
-      "text": "nội dung thực hành nên sát với lý thuyết hơn .",
-      "label": 0
-   },
-   {
       "text": "chỉ cần học sinh siêng năng là sẽ làm được và hiểu rõ hơn về lý thuyết sau mỗi lần làm bài thực hành .",
       "label": 1
    },
    {
-      "text": "giáo viên thân thiện , nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "chưa có slide giảng dạy hiệu quả .",
-      "label": 0
-   },
-   {
-      "text": "lên lớp đảm bảo thời gian và công tác giảng dạy .",
-      "label": 2
-   },
-   {
-      "text": "thầy chậm trễ trong việc gặp sinh viên để thảo luận về vấn đề đồ án .",
-      "label": 0
-   },
-   {
-      "text": "theo em nghĩ anh văn cần 2 tiết là đủ .",
-      "label": 0
-   },
-   {
-      "text": "nên bỏ phần thi lý thuyết .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên tận tình giúp đỡ .",
-      "label": 2
-   },
-   {
-      "text": "hướng dẫn thực hành kỹ lưỡng , đảm bảo sinh viên hiểu được cách làm .",
-      "label": 2
-   },
-   {
-      "text": "wifi yếu .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên trẻ nhưng giảng dạy tốt , tạo hứng thú cho người học .",
-      "label": 2
-   },
-   {
       "text": "dạy với slide tiếng anh .",
       "label": 1
-   },
-   {
-      "text": "kiểu như giảng viên chưa chuẩn bị , chưa từng đọc tới cái đề vậy .",
-      "label": 0
-   },
-   {
-      "text": "thầy cần giải những ví dụ ra trên bảng để sinh viên dễ hiểu hơn .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên cung cấp đầy đủ kiến thức , tài liệu học tập .",
-      "label": 2
-   },
-   {
-      "text": "sự tận tâm , nhiệt tình và truyền đạt kiến thức cần thiết cho sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "chưa hiểu bài lắm .",
-      "label": 0
    },
    {
       "text": "giờ quen miệng , nói câu đó quài .",
@@ -4172,403 +980,223 @@
       "label": 1
    },
    {
-      "text": "thầy không dùng micro nên ngồi ở xa không nghe rõ .",
-      "label": 0
-   },
-   {
-      "text": "cập nhật tài liệu đầy đủ cho sinh viên !",
-      "label": 0
-   },
-   {
-      "text": "có quá nhiều bài tập .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên chưa cung cấp đầy đủ tài liệu môn học .",
-      "label": 0
-   },
-   {
-      "text": "những sinh viên được lòng giảng viên trên lớp sẽ qua môn một cách dễ dàng , còn những sinh viên còn lại chỉ cần sai sót nhỏ sẽ rớt môn .",
-      "label": 0
-   },
-   {
-      "text": "tạo nhiều trò chơi giúp sinh viên đỡ thấy nhàm chán .",
-      "label": 2
-   },
-   {
-      "text": "hướng dẫn nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "cung cấp kiến thức gần với thực tế .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên nhiệt tình , đánh giá đúng năng lực .",
-      "label": 2
-   },
-   {
-      "text": "nhiệt tình , quan tâm đến sinh viên .",
-      "label": 2
-   },
-   {
-      "text": "tăng cường chất lượng phòng học .",
-      "label": 0
-   },
-   {
-      "text": "cô giảng rất chán slide tiếng anh dùng nhiều từ chuyên ngành , nên nếu không bắt kịp những gì cô giảng thì cũng khó để hiểu được bài giảng .",
-      "label": 0
-   },
-   {
-      "text": "còn vài điều về bài học vẫn chưa được giải thích cho mọi sinh viên hiểu .",
-      "label": 0
-   },
-   {
-      "text": "cách giảng dạy rất hiệu quả , lớp học vui .",
-      "label": 2
-   },
-   {
-      "text": "thầy bận công tác và thay giảng viên khác mà giảng viên đó dạy không tốt bằng thầy wzjwz292 làm chúng em rất khó nắm bắt kiến thức .",
-      "label": 0
-   },
-   {
-      "text": "tiết học có phần khô chán .",
-      "label": 0
-   },
-   {
-      "text": "cô vui vẻ , giúp lớp cùng nhau hoạt động sôi nổi .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên tăng cường giải bài tập , giúp sinh viên dễ hiểu bài .",
-      "label": 2
-   },
-   {
-      "text": "thầy rất vui tính , giảng hay và kỹ .",
-      "label": 2
-   },
-   {
-      "text": "môn này rất khó kiếm tài liệu , phần lớn kiếm được lại là tài liệu tiếng anh .",
-      "label": 0
-   },
-   {
-      "text": "kiến thức hay !",
-      "label": 2
-   },
-   {
-      "text": "đúng giờ , tận tâm với lớp .",
-      "label": 2
-   },
-   {
       "text": "thân mến .",
       "label": 1
-   },
-   {
-      "text": "giáo viên hướng dẫn phần giao tiếp gượng ép thiếu tự nhiên , hay đánh vào đầu học sinh .",
-      "label": 0
    },
    {
       "text": "ví dụ giơ tay phát biểu cộng điểm , lên bảng làm bài tập cộng điểm .",
       "label": 1
    },
    {
-      "text": "cập nhật liên tục những công nghệ mới , không giảng dạy những công nghệ đã quá cũ trang thiết bị thực hành cần hoàn thiện .",
-      "label": 0
-   },
-   {
-      "text": "dạy nghiêm túc , vui .",
-      "label": 2
-   },
-   {
-      "text": "thầy quá tuyệt vời .",
-      "label": 2
-   },
-   {
-      "text": "thầy đến tận nơi giảng bài khi không hiểu .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên kém vui vẻ .",
-      "label": 0
-   },
-   {
-      "text": "dạy hay dễ hiểu .",
-      "label": 2
-   },
-   {
-      "text": "giáo viên rất tận tình , quan tâm tới lớp .",
-      "label": 2
-   },
-   {
-      "text": "chất lượng môn học hiện tại rất tốt .",
-      "label": 2
-   },
-   {
-      "text": "thầy vui tính , dạy tốt , đi cặn kẽ vào bài học .",
-      "label": 2
-   },
-   {
-      "text": "có những cái cô dạy lan man ngoài phần thi không cần thiết .",
-      "label": 0
-   },
-   {
-      "text": "chu đáo và ân cần .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy rất hay và dễ hiểu , tập trung sát vào phần trọng tâm .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên hướng dẫn rất chi tiết , nhiệt tình .",
-      "label": 2
-   },
-   {
-      "text": "có giao tiếp tiếng anh và thực hành giao tiếp trong lớp học nhiều .",
-      "label": 2
-   },
-   {
-      "text": "hạn chế cho ra ví dụ kiểu như 12 rồi cho bài tập kiểu như 245 .",
-      "label": 0
-   },
-   {
-      "text": "có một thực tế là em học môn nhập môn lập trình ( thực hành  do cô wzjwz256 dạy ) nội dung chương trình lại đi trước , nhanh hơn cả môn học lý thuyết ( không phải do môn thực hành học nhanh hơn mà do môn lý thuyết học chậm hơn ) ?",
-      "label": 0
-   },
-   {
-      "text": "điều này có được do cô thỉnh thoảng có mời các thầy nước ngoài đến dự và hỗ trợ các nhóm thuyết trình ngay trong lớp học .",
-      "label": 2
-   },
-   {
-      "text": "cứ như kiểu đọc slide xuống vậy .",
-      "label": 0
-   },
-   {
-      "text": "giảng viên tâm huyết .",
-      "label": 2
-   },
-   {
-      "text": "thầy dạy rất sơ sài hầu như chỉ trong slide .",
-      "label": 0
-   },
-   {
-      "text": "nên tìm được phương pháp dễ hình dung và thực tiễn hơn .",
-      "label": 0
-   },
-   {
-      "text": "thầy trình bày bài giảng lộn xộn .",
-      "label": 0
-   },
-   {
       "text": "thấy giảng dạy nói môn này muốn học thì phải có phòng thí nghiệm .",
       "label": 1
-   },
-   {
-      "text": "phòng thực hành cần nâng cấp các bộ kit , thực hành chưa hiệu quả .",
-      "label": 0
-   },
-   {
-      "text": "thầy dạy rất dễ hiểu , cho bài tập để tiếp thu .",
-      "label": 2
-   },
-   {
-      "text": "giảng viên nên nói tiếng anh sau đó giải thích nghĩa .",
-      "label": 0
-   },
-   {
-      "text": "phòng học quá nóng , máy chiếu mờ .",
-      "label": 0
-   },
-   {
-      "text": "nội dung bài học được lồng ghép vào nhưng trò chơi .",
-      "label": 2
-   },
-   {
-      "text": "cô tận tâm , nhiệt tình giúp đỡ .",
-      "label": 2
-   },
-   {
-      "text": "khắc phục khuyết điểm \" tôi không có lý do gì để xem bài tập của em cả \" .",
-      "label": 0
-   },
-   {
-      "text": "môn học tuy khó nhưng kiến thức rất có ý nghĩa cho sau này .",
-      "label": 2
    },
    {
       "text": "thuyết trình trên lớp .",
       "label": 1
    },
    {
-      "text": "thầy có kiến thức sâu và rộng .",
-      "label": 2
+      "text": "thầy lên lớp đúng giờ và đều đặn .",
+      "label": 1
    },
    {
-      "text": "ida pro 64-bit hoàn toàn có thể phân tích các file thực thi 32-bit nhưng các thanh ghi phức tạp hơn nhiều thay cho ida pro 64-bit không phân tích được cái file thực thi 32-bit colonsmile .",
-      "label": 0
+      "text": "em cảm ơn thầy đã đọc ạ .",
+      "label": 1
    },
    {
-      "text": "lắp thêm rèm của để máy chiếu được hiệu quả hơn .",
-      "label": 0
+      "text": "xin cảm ơn !",
+      "label": 1
    },
    {
-      "text": "tốt , tận tình với sinh viên .",
-      "label": 2
+      "text": "đầy đủ .",
+      "label": 1
    },
    {
-      "text": "giảng viên hướng dẫn thực hành cần nhiệt tình giúp đỡ sinh viên trong quá trình thực hành .",
-      "label": 2
+      "text": "ứng dụng của môn học đó giúp gì cho sinh viên .",
+      "label": 1
    },
    {
-      "text": "em nghĩ thầy nên tăng cường sửa nhiều bài tập hơn .",
-      "label": 0
+      "text": "thầy có hơi đi trễ chút xíu .",
+      "label": 1
    },
    {
-      "text": "phòng học vô cùng nóng , quạt chỉ để trang trí .",
-      "label": 0
+      "text": "giảng viên dạy không nhàm chán .",
+      "label": 1
    },
    {
-      "text": "thầy không cung cấp đủ tài liệu trên website môn học , toàn bộ tài liệu sinh viên phải đi nhờ mấy bạn lớp khác để có tài liệu mà học .",
-      "label": 0
+      "text": "về các ví dụ .",
+      "label": 1
    },
    {
-      "text": "nhờ vậy trình của sinh viên lên rất nhiều sau mỗi buổi thực hành và làm bài tập .",
-      "label": 2
+      "text": "tăng cường thiết bị .",
+      "label": 1
    },
    {
-      "text": "không co ý kiến .",
-      "label": 2
+      "text": "chỉ tại em thiếu từ vựng anh văn .",
+      "label": 1
    },
    {
-      "text": "cho bài tập hơi khó .",
-      "label": 0
+      "text": "em ít khi lên lớp .",
+      "label": 1
    },
    {
-      "text": "loại kiến thức thầy truyền đạt rất có sức thu hút .",
-      "label": 2
+      "text": "quan tâm .",
+      "label": 1
    },
    {
-      "text": "dễ thương .",
-      "label": 2
+      "text": "chuẩn bị đầy đủ các phần mềm , chương trình cần thiết sẵn trong các phòng thực hành phù hợp với đặc trưng môn học .",
+      "label": 1
    },
    {
-      "text": "thầy chấm điểm còn cảm tính và có phần chưa công bằng .",
-      "label": 0
+      "text": "thầy không dạy em môn này .",
+      "label": 1
    },
    {
-      "text": "tận tâm gọi những sinh viên không tập trung để trả lời câu hỏi .",
-      "label": 2
+      "text": "thực hành đầy đủ .",
+      "label": 1
    },
    {
-      "text": "giảng viên cần phân bổ số lượng bài tập tương đồng với nội dung lý thuyết .",
-      "label": 0
+      "text": "có nắm được lý thuyết của môn học .",
+      "label": 1
    },
    {
-      "text": "khi học sinh nào có ý kiến muốn phát biểu thì thầy tranh luận tới cùng .",
-      "label": 0
+      "text": "cách dạy của giảng viên .",
+      "label": 1
    },
    {
-      "text": "giảng viên lên lớp chỉ đưa bài thực hành cho sinh viên làm , và từ đầu đến cuối buổi hoàn toàn không nói một câu nào !",
-      "label": 0
+      "text": "em thấy học vậy cũng được rồi .",
+      "label": 1
    },
    {
-      "text": "cần tăng cường hoạt động nhóm và cần nhiều bài tập hơn cho môn học .",
-      "label": 0
+      "text": "có tương tác với sinh viên .",
+      "label": 1
    },
    {
-      "text": "giáo trình hợp lý .",
-      "label": 2
+      "text": "nói chung cũng tạm được .",
+      "label": 1
    },
    {
-      "text": "giảng viên nhiệt tình , giảng dạy tốt , dễ hiểu .",
-      "label": 2
+      "text": "chưa bao giờ gặp mặt giáo viên từ lúc bắt đầu học đến bây giờ !",
+      "label": 1
    },
    {
-      "text": "nhiệt tình , chu đáo , dạy dễ hiểu .",
-      "label": 2
+      "text": "không có gì cả ạ .",
+      "label": 1
    },
    {
-      "text": "tận tâm với bài giảng .",
-      "label": 2
+      "text": "có bài tập cuối giờ .",
+      "label": 1
    },
    {
-      "text": "chứ không được nói kiểu bài này dễ , tự tìm hiểu là được , có gì không hiểu hỏi .",
-      "label": 0
+      "text": "tất cả các hoạt động trên lớp .",
+      "label": 1
    },
    {
-      "text": "không hiểu gì khi ngồi nghe trong lớp .",
-      "label": 0
+      "text": "đến lớp dúng giờ !",
+      "label": 1
    },
    {
-      "text": "cách trả lời thắc mắc cho sinh viên về bài học khiến sinh viên khó chịu ( vì sinh viên chưa hoàn hảo nên đôi lúc có những câu hỏi \" trên trời \" , thầy có kinh nghiệm thì nên chỉ rõ lỗi sai của sinh viên chứ không nên hỏi vặn vẹo , gây khó chịu ) .",
-      "label": 0
+      "text": "không biết .",
+      "label": 1
    },
    {
-      "text": "hỗ trợ thêm thiết bị cho việc giảng dạy môn anh văn , nếu có điều kiện có thể cho sinh viên học kỹ năng nghe anh văn trong phòng máy với trang thiết bị như tai nghe .",
-      "label": 0
+      "text": "vâng không có ý kiến gì thêm .",
+      "label": 1
    },
    {
-      "text": "thầy wzjwz212 dạy nhiệt tình .",
-      "label": 2
+      "text": "chưa thấy giáo viên bao giờ .",
+      "label": 1
    },
    {
-      "text": "hơi căng .",
-      "label": 0
+      "text": "mang tính thực tế .",
+      "label": 1
    },
    {
-      "text": "giảng viên dạy tận tâm , nhiệt tình , vui vẻ với sinh viên , dạy đầy đủ kiến thức cần thiết .",
-      "label": 2
+      "text": "ra các dạng của đề thi !",
+      "label": 1
    },
    {
-      "text": "thầy vừa dạy slide tiếng anh vừa dịch sang tiếng việt kế bên câu tiếng anh để khi về nhà tụi em đọc lại dễ hiểu hơn .",
-      "label": 2
+      "text": "đi dạy đúng giờ và bù đủ số buổi vắng .",
+      "label": 1
    },
    {
-      "text": "vui vẻ hòa đồng nhiệt tình chỉ bao nhiêu đối với một giáo viên là đủ .",
-      "label": 2
+      "text": "không có ý kiến thêm .",
+      "label": 1
    },
    {
-      "text": "ít dạy bài tập .",
-      "label": 0
+      "text": "giảng bài .",
+      "label": 1
    },
    {
-      "text": "giảng viên không cung cấp đủ tài liệu để làm đồ án .",
-      "label": 0
+      "text": "không có , do em không có khả năng tiếp thu đối với môn này thôi .",
+      "label": 1
    },
    {
-      "text": "dạy dễ hiểu , nhiệt tình , tuyệt vời .",
-      "label": 2
+      "text": "không có điều không hài lòng .",
+      "label": 1
    },
    {
-      "text": "tận tình tích cực .",
-      "label": 2
+      "text": "dùng hệ thống we code .",
+      "label": 1
    },
    {
-      "text": "cô dạy rất là nhiệt tình , dễ tiếp thu không chỉ hỗ trợ về kiến thức môn học mà về kỹ năng mềm cô rất quan tâm đến sinh viên về cả phần học tập cũng như cuộc sống .",
-      "label": 2
+      "text": "em xin góp ý như thế ạ .",
+      "label": 1
    },
    {
-      "text": "thầy dễ tính thoải mái , vui tính , nhiệt tình .",
-      "label": 2
+      "text": "em cám ơn !",
+      "label": 1
    },
    {
-      "text": "giảng viên dễ chịu vui tính .",
-      "label": 2
+      "text": "không thấy không hài lòng về giảng viên .",
+      "label": 1
    },
    {
-      "text": "chưa tận tâm trong giảng dạy , không nghiên cứu kỹ bài giảng trước khi lên lớp .",
-      "label": 0
+      "text": "nếu như một người không xem bài \" kỹ \" trước ở nhà .",
+      "label": 1
    },
    {
-      "text": "giảng phần bài tập hơi nhanh .",
-      "label": 0
+      "text": "thầy này không có dạy lớp em .",
+      "label": 1
    },
    {
-      "text": "giúp sinh viên hiểu chuyên sâu hơn về lý thuyết đã học trên lớp , tạo điều kiện tối đa cho sinh viên .",
-      "label": 2
+      "text": "dù sao em cũng cám ơn thầy đã dẫn dắt bọn em ở học kỳ hai này ạ .",
+      "label": 1
    },
    {
-      "text": "cách nói chuyện dí dỏm , gần gũi đem lại không khí thoải mái , vui vẻ cho mỗi buổi học .",
-      "label": 2
+      "text": "thực hiện nhóm nhiều .",
+      "label": 1
+   },
+   {
+      "text": "báo cáo cuối kỳ thầy tập trung cả lớp trong một buổi .",
+      "label": 1
+   },
+   {
+      "text": "thầy có vẻ hơi có chịu .",
+      "label": 1
+   },
+   {
+      "text": "môn này chủ yếu là để làm nhóm .",
+      "label": 1
+   },
+   {
+      "text": "hợp tác .",
+      "label": 1
+   },
+   {
+      "text": "em không có ý kiến gì thêm .",
+      "label": 1
+   },
+   {
+      "text": "em cảm ơn .",
+      "label": 1
+   },
+   {
+      "text": "em cám ơn .",
+      "label": 1
+   },
+   {
+      "text": "phòng học được trang bị tốt hơn , đảm bảo tốt cho công tác giảng dạy .",
+      "label": 1
    }
 ]
