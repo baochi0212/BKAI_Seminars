@@ -18,7 +18,7 @@ def split_data(json_dict):
     split the json_dict
     """
     pass
-def dataset2json(filename, proportion=0.1, max_sample=100):
+def dataset2json(filename, proportion=0.1, max_sample=500):
     '''
     for dataset library 
     experiment with varied proportion of data
@@ -33,6 +33,8 @@ def dataset2json(filename, proportion=0.1, max_sample=100):
     train_stat, test_stat = {}, {}
     if max_sample:
         proportion = 1
+    else:
+        max_sample = 1e+9
     for mode in ['train', 'validation', 'test']:
         length = int(len(dataset[mode])//(1/proportion)) if mode == 'train' else len(dataset[mode])
         for i in range(length):
@@ -181,4 +183,4 @@ if __name__ == '__main__':
     # # #         print(word)
     # # #         break
 
-    dataset2json(filename, proportion=1)
+    dataset2json(filename, proportion=1, max_sample=None)
