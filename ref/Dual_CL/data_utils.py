@@ -36,14 +36,14 @@ def dataset2json(filename, proportion=0.1, max_sample=500):
     else:
         max_sample = 1e+9
     for mode in ['train', 'validation', 'test']:
-        length = int(len(dataset[mode])//(1/proportion)) if mode == 'train' else len(dataset[mode])
+        length = int(len(dataset[mode])//(1/proportion)) if mode != "test" else len(dataset[mode])
         for i in range(length):
             sentence, label = dataset[mode][i]['sentence'], dataset[mode][i]['sentiment']
             if label not in labels:
                 labels.append(label)
                 locals()[f"train_stat"][label] = 0
                 locals()[f"test_stat"][label] = 0
-            if mode == 'train':
+            if mode != 'test':
                 if train_stat[label] < max_sample:
                     train_dict.append({'text': sentence, 'label': label})
                     train_stat[label] += 1
