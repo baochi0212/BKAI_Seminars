@@ -183,4 +183,4 @@ if __name__ == '__main__':
     # # #         print(word)
     # # #         break
 
-    dataset2json(filename, proportion=1, max_sample=500)
+    dataset2json(filename, proportion=1, max_sample=1000)
