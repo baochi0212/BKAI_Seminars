@@ -87,7 +87,7 @@ class Instructor:
                 # print(targets) #for verify sanity
                 n_correct += (torch.argmax(outputs['predicts'], -1) == targets).sum().item()
                 y_pred += torch.argmax(outputs['predicts'], -1).cpu().numpy().reshape(-1).tolist()
-                y_true += targets.numpy().reshape(-1).cput().tolist()
+                y_true += targets.cpu().numpy().reshape(-1).tolist()
                 n_test += targets.size(0)
         print(classification_report(y_true, y_pred))
         return test_loss / n_test, n_correct / n_test
