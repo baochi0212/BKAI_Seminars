@@ -7,7 +7,7 @@ class CELoss(nn.Module):
 
     def __init__(self):
         super().__init__()
-        self.xent_loss = nn.CrossEntropyLoss(weight=torch.tensor([0.5, 0.5, 1]).to(device))
+        self.xent_loss = nn.CrossEntropyLoss(weight=torch.tensor([1, 1, 1]).to(device))
 
     def forward(self, outputs, targets):
         return self.xent_loss(outputs['predicts'], targets)
