@@ -111,7 +111,7 @@ class Instructor:
             criterion = DualLoss(self.args.alpha, self.args.temp)
         else:
             raise ValueError('unknown method')
-        optimizer = torch.optim.AdamW(_params, lr=self.args.lr, weight_decay=self.args.decay)
+        optimizer = torch.optim.AdamW(_params, lr=self.args.lr)
         total_steps = len(train_dataloader)*args.num_epoch
         scheduler = get_linear_schedule_with_warmup(optimizer=optimizer, num_training_steps=total_steps, num_warmup_steps=total_steps//20)
         best_loss, best_acc = 0, 0
