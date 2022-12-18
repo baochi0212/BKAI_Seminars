@@ -13,11 +13,19 @@ filename = "uit-nlp/vietnamese_students_feedback"
 # dataset = load_dataset(filename)
 
 data_dir = "./data"
-def split_data(json_dict):
+def split_data(json_dict, max_sample=300):
     """
-    split the json_dict
+    take the sample from the json_dict with max_sample per class
     """
-    pass
+    data = []
+    data_stat = {}
+    for i in range(len(json_dict)):
+        if data_stat[json_dict[i]['label']] < max_sample:
+            data.append(json_dict[i])
+            data_stat[json_dict[i]['label']] += 1 
+
+    return data
+
 def dataset2json(filename, proportion=0.1, max_sample=500):
     '''
     for dataset library 
@@ -130,8 +138,7 @@ def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, m
     if dataset == 'sst2':
         train_data = json.load(open(os.path.join(data_dir, 'SST2_Train.json'), 'r', encoding='utf-8'))
         test_data = json.load(open(os.path.join(data_dir, 'SST2_Test.json'), 'r', encoding='utf-8'))
-        train_data = train_data[:int(len(train_data)//10)+1]
-        
+        train_data = split_data(train_data, max_sample=100)
         label_dict = {'positive': 0, 'negative': 1}
     elif dataset == 'trec':
         train_data = json.load(open(os.path.join(data_dir, 'TREC_Train.json'), 'r', encoding='utf-8'))
