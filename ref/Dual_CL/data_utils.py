@@ -20,6 +20,8 @@ def split_data(json_dict, max_sample=300):
     data = []
     data_stat = {}
     for i in range(len(json_dict)):
+        if json_dict[i]['label'] not in data_stat:
+            data_stat[json_dict[i]['label']] = 0
         if data_stat[json_dict[i]['label']] < max_sample:
             data.append(json_dict[i])
             data_stat[json_dict[i]['label']] += 1 
