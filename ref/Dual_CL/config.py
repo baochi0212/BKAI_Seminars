@@ -23,7 +23,7 @@ def get_config():
     parser.add_argument('--num_epoch', type=int, default=100)
     parser.add_argument('--lr', type=float, default=5e-6)
     parser.add_argument('--decay', type=float, default=0.01)
-    parser.add_argument('--alpha', type=float, default=0.9)
+    parser.add_argument('--alpha', type=float, default=0.5)
     parser.add_argument('--temp', type=float, default=0.1)
     ''' Environment '''
     parser.add_argument('--backend', default=False, action='store_true')
