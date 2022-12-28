@@ -148,6 +148,18 @@
       "label": "terrorism"
    },
    {
+      "text": "The district is nearly 70% Hispanic and has a large Mexican American\u00a0 population",
+      "label": "religion"
+   },
+   {
+      "text": "He said that when he talked about bringing in heavy weapons by boat, he was actually engaged in creative writing and just referencing a screenplay he wrote Jan",
+      "label": "terrorism"
+   },
+   {
+      "text": "She told jurors that she felt like she was part of a historic moment and that rioters were making history on Jan.  6",
+      "label": "terrorism"
+   },
+   {
       "text": "OP's Bio: I climb from time to time.  I play the clarinet",
       "label": "neutral"
    },
@@ -668,10 +680,6 @@
       "label": "religion"
    },
    {
-      "text": "As one of many examples, we know Scientologists hid information about Xenu from the rank and file for decades, only exposing it to a select few",
-      "label": "religion"
-   },
-   {
       "text": "The mass shooter is responsible for his evil acts, obviously",
       "label": "terrorism"
    },
@@ -897,14 +905,6 @@
    },
    {
       "text": "Car Bombing In Western Afghanistan Kills Seven",
-      "label": "terrorism"
-   },
-   {
-      "text": "Who Really Chooses to Become a Suicide Bomber?",
-      "label": "terrorism"
-   },
-   {
-      "text": "21 years since 9/11 attacks",
       "label": "terrorism"
    }
 ]
