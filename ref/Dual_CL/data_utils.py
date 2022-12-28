@@ -167,6 +167,10 @@ def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, m
         train_data = json.load(open(os.path.join(data_dir, 'uit-nlp_Train.json'), 'r', encoding='utf-8'))
         test_data = json.load(open(os.path.join(data_dir, 'uit-nlp_Test.json'), 'r', encoding='utf-8'))
         label_dict = text2dict('uit-nlp_label.txt')
+    elif dataset == 'sensitive':
+        train_data = json.load(open(os.path.join(data_dir, 'sensitive_train.json'), 'r', encoding='utf-8'))
+        test_data = json.load(open(os.path.join(data_dir, 'sensitive_test.json'), 'r', encoding='utf-8'))
+        label_dict = {'insult': 0, 'religion': 1, 'terrorism': 2, 'politics': 3, 'neutral': 4}
         # train_data = train_data[:int(len(train_data)//10)+1]
      
 
