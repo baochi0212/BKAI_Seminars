@@ -640,6 +640,18 @@
       "label": "terrorism"
    },
    {
+      "text": "The district is nearly 70% Hispanic and has a large Mexican American\u00a0 population",
+      "label": "religion"
+   },
+   {
+      "text": "He said that when he talked about bringing in heavy weapons by boat, he was actually engaged in creative writing and just referencing a screenplay he wrote Jan",
+      "label": "terrorism"
+   },
+   {
+      "text": "She told jurors that she felt like she was part of a historic moment and that rioters were making history on Jan.  6",
+      "label": "terrorism"
+   },
+   {
       "text": "OP's Bio: I climb from time to time.  I play the clarinet",
       "label": "neutral"
    },
@@ -1717,6 +1729,10 @@
    },
    {
       "text": ": Planets, trees, paperclips, and we ourselves appear to be here",
+      "label": "neutral"
+   },
+   {
+      "text": ": Most of us agree with this observation, and if we didn\u2019t, there\u2019d be nothing to explain, so for sake of conversation, let\u2019s assume for now that we do in fact exist Supposing stuff does exist, it seems reasonable to ask how it got here - where did it come from? The fact that we think an explanation is needed here implies that we all share a certain idea of what counts as a good explanation",
       "label": "neutral"
    },
    {
@@ -3180,10 +3196,6 @@
       "label": "religion"
    },
    {
-      "text": "38 And Mary said, Behold, I am the servant[e] of the Lord; let it be to me according to your word",
-      "label": "religion"
-   },
-   {
       "text": "The mass shooter is responsible for his evil acts, obviously",
       "label": "terrorism"
    },
@@ -4077,18 +4089,6 @@
    },
    {
       "text": "At least six dead in suspected terrorist bombing in Istanbul, Turkey",
-      "label": "terrorism"
-   },
-   {
-      "text": "Western governments &amp; defence contractors support Turkey &amp; its Jihadi proxies who are committing war crimes in Syria",
-      "label": "terrorism"
-   },
-   {
-      "text": "Second person dies of injuries days after Jerusalem bombing attack",
-      "label": "terrorism"
-   },
-   {
-      "text": "At Least 7 Dead in Somalia After Al-Shabab Attacks",
       "label": "terrorism"
    }
 ]
